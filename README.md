@@ -6,4 +6,7 @@ _List of online resources for app development_
    
 2. [Frameworks](frameworks.md) 
    List of application frameworks
+   
+3. [Tutorials](tutorials.md)
+   List of tutorials
 
