@@ -6,3 +6,6 @@
 2. [Now](https://zeit.co/now)
    realtime deployment for node applications and static sites. Supports aliases and custom domains.
    Everything done in a CLI.
+   
+3. [Netlify](https://www.netlify.com/)
+   Similar to Now.   
