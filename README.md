@@ -14,6 +14,9 @@ _List of online resources for app development_
    Graphic design and drawing tools.
    
 5. [Machine Learning](machine_learning)
-   Some Machine Learning resources   
+   Some Machine Learning resources
+   
+6. [Developer Resources Online](developer_resources.md)
+   List of online resources for learning      
    
 
