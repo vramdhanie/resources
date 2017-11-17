@@ -17,6 +17,9 @@ _List of online resources for app development_
    Some Machine Learning resources
    
 6. [Learning Resources Online](developer_resources.md)
-   List of online resources for learning      
+   List of online resources for learning
+   
+7. [Devops](Devops)
+   Some devops resources         
    
 
