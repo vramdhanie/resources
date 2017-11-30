@@ -16,6 +16,8 @@ _List of online resources for app development_
 5. [Devops](Devops)
    Some devops resources    
    
-6. [Front End Web Development](fewd)        
+6. [Front End Web Development](fewd)    
+
+7. [Server Side](serverside)    
    
 
