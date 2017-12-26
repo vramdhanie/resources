@@ -23,4 +23,7 @@ _List of online resources for app development_
 8. [Cookie Cutter](https://github.com/audreyr/cookiecutter)
    A commnd line utility for generating projects from templates
    
+9. [RAML](https://raml.org/)
+   RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing.   
+   
 
