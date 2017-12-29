@@ -26,4 +26,5 @@ _List of online resources for app development_
 9. [RAML](https://raml.org/)
    RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing.   
    
-
+10. [Design](design)
+    Some design (yuck!) resources that are unfortunately also required.
