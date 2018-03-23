@@ -28,3 +28,9 @@ _List of online resources for app development_
    
 10. [Design](design)
     Some design (yuck!) resources that are unfortunately also required.
+    
+11. [Pandoc](http://pandoc.org)
+    Convert any markdown/markup such as Latex to large variety of formats
+    
+12. [Java](java)
+    Java learning resources        
