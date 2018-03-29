@@ -14,3 +14,7 @@
    
 5. [Atlas](https://www.mongodb.com/cloud/atlas)
    Database as a service for MongoDB, free tier available   
+
+6. [Feathers](https://feathersjs.com/)
+> An open source REST and realtime API layer for modern applications.
+Excellent framework built on express
