@@ -12,3 +12,7 @@ List of tools that are useful for Front End Development
   - Angular
   - React
   - Ionic
+
+2. [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+   For testing front end applications
+
