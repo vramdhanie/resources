@@ -16,3 +16,6 @@
 5. [GreenSock](https://greensock.com/)
    From the official site:
    >Ultra high-performance, professional-grade animation for the modern web     
+
+6. [Libraries](libraries.md)
+   Some front end libraries
