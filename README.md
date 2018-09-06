@@ -33,4 +33,7 @@ _List of online resources for app development_
     Convert any markdown/markup such as Latex to large variety of formats
     
 12. [Java](java)
-    Java learning resources        
+    Java learning resources   
+    
+13. [Dash](https://plot.ly/products/dash/)
+    Python framework for dashboard web application based on plotly         
