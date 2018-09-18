@@ -9,4 +9,7 @@
    is very good
    
 2. [Intel Distribution for Python](https://software.intel.com/en-us/distribution-for-python)
-   Highly optimized library for Machine Learning    
+   Highly optimized library for Machine Learning  
+   
+3. [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+   Fairly new service by Google for searching datasets for a wide variety of topics    
