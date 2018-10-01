@@ -13,3 +13,6 @@
    
 4. [Google's Machine Learning Guides](https://developers.google.com/machine-learning/guides/)
    Excellent ML guides with code examples.    
+
+5. [Dealing with Text](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
+   Article that gives quick overview of various text techniques
