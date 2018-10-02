@@ -16,3 +16,6 @@
 
 5. [Dealing with Text](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
    Article that gives quick overview of various text techniques
+   
+6. [Kaggle's Bag of Words Tutorial/Exercise](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+   This walkthrough explains using Bag of Words and other text processing techniques   

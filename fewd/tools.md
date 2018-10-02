@@ -15,4 +15,8 @@ List of tools that are useful for Front End Development
 
 2. [Puppeteer](https://github.com/GoogleChrome/puppeteer)
    For testing front end applications
+ 
+3. [Parcel](https://parceljs.org/)
+   A blazingly fast package manager for JS 
+   
 
