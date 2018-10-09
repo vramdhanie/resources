@@ -6,6 +6,9 @@
 2. [Books](books.md)
    Some machine learning books available for free   
    
-3. [Articles and Papers] (papers.md)
-   Academic papers and articles about ML   
+3. [Articles and Papers](papers.md)
+   Academic papers and articles about ML  
+   
+4. [Podcasts](podcasts.md)
+   A few interesting and relevant podcasts.    
    
