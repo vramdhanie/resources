@@ -37,3 +37,9 @@ _List of online resources for app development_
     
 13. [Dash](https://plot.ly/products/dash/)
     Python framework for dashboard web application based on plotly         
+    
+14. [APIs Without Authentication](https://shkspr.mobi/blog/2016/05/easy-apis-without-authentication/)
+    Slightly outdated list of APIs that do not need authentication. BUt still a few good ones there.    
+
+15. [Any API](https://any-api.com/) 
+    A good list of public APIs. Seems to be well maintained.
