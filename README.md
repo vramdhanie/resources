@@ -39,10 +39,14 @@ _List of online resources for app development_
     Python framework for dashboard web application based on plotly         
     
 14. [APIs Without Authentication](https://shkspr.mobi/blog/2016/05/easy-apis-without-authentication/)
-    Slightly outdated list of APIs that do not need authentication. BUt still a few good ones there.    
+    Slightly outdated list of APIs that do not need authentication. But still a few good ones there.    
 
 15. [Any API](https://any-api.com/) 
     A good list of public APIs. Seems to be well maintained.
     
 16. [Create npm package](https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78)    
     Simple to follow tutorial on creating a npm package.
+    
+17. [Research Resources](research)
+    Resources for accessing academic papers    
+    
