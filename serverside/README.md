@@ -18,3 +18,6 @@
 6. [Feathers](https://feathersjs.com/)
 > An open source REST and realtime API layer for modern applications.
 Excellent framework built on express
+
+7. [REST API Tutorial](https://restfulapi.net/)
+   Good enough tutorial on RESTful APIs
