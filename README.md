@@ -1,5 +1,8 @@
 # Resources
-_List of online resources for app development_
+_Manage a list of bookmarks using Git_
+
+This repo started off as a static file. In its current incarnation it is a simple Python script that
+automates the creation of a CSV file that stores a searchable list of bookmarks.
 
 1. [Cloud Services](cloud_services.md)
    List of cloud based solutions that may be useful in app development
