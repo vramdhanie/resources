@@ -1,1 +1,0 @@
-python main.py -e -n "File upload to Cloudinary" -u "https://bilalbudhani.com/upload-multiple-files-to-cloudinary-using-react-dropzone-axios/" -d "Upload multiple files to a cloudinary hosted account." -t "FEWD,File Upload,cloudinary,react" -g -m "Add multi file upload tutorial"

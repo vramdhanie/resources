@@ -7,3 +7,6 @@ date,title,url,description,tags
 2019-03-25,React,https:reactjs.org,A JavaScript library for building user interfaces,"FEWD,React,Framework,JavaScript"
 2019-03-25,Relay,https://facebook.github.io/relay/,A JavaScript framework for building data-driven React applications,"FEWD,Relay,Framework,JavaScript,Data Driven"
 2019-03-25,Angular,https://angular.io/,Very powerful front end framework for building SPAs for web and mobile devices.,"FEWD,Framework,Angular,JavaScript"
+2019-03-25,StackBlitz,https://stackblitz.com/,"From the website: >The online IDE for web applications. Powered by VS Code. Great for Angular, React, Ionic","FEWD,Tools,VSCode,IDE,Editor"
+2019-03-25,Puppeteer,https://github.com/GoogleChrome/puppeteer,For testing front end applications,"FEWD,Tools,Testing"
+2019-03-25,Parcel,https://parceljs.org/,A blazingly fast package manager for JS,"FEWD,Tools,Package"
