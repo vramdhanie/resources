@@ -3,3 +3,4 @@ date,title,url,description,tags
 2019-03-25,RAML,https://raml.org/,RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing.,"REST,API,Modelling"
 2019-03-25,Dash,https://plot.ly/products/dash/,Python framework for dashboard web application based on plotly,"python,framework,dashboard,plotly,web"
 2019-03-25,Pandoc,http://pandoc.org,Convert any markdown/markup such as Latex to large variety of formats,"markup,documentation,document,formatting"
+2019-03-25,File upload to Cloudinary,https://bilalbudhani.com/upload-multiple-files-to-cloudinary-using-react-dropzone-axios/,Upload multiple files to a cloudinary hosted account.,"FEWD,File Upload,cloudinary,react"
