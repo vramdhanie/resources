@@ -4,3 +4,6 @@ date,title,url,description,tags
 2019-03-25,Dash,https://plot.ly/products/dash/,Python framework for dashboard web application based on plotly,"python,framework,dashboard,plotly,web"
 2019-03-25,Pandoc,http://pandoc.org,Convert any markdown/markup such as Latex to large variety of formats,"markup,documentation,document,formatting"
 2019-03-25,File upload to Cloudinary,https://bilalbudhani.com/upload-multiple-files-to-cloudinary-using-react-dropzone-axios/,Upload multiple files to a cloudinary hosted account.,"FEWD,File Upload,cloudinary,react"
+2019-03-25,React,https:reactjs.org,A JavaScript library for building user interfaces,"FEWD,React,Framework,JavaScript"
+2019-03-25,Relay,https://facebook.github.io/relay/,A JavaScript framework for building data-driven React applications,"FEWD,Relay,Framework,JavaScript,Data Driven"
+2019-03-25,Angular,https://angular.io/,Very powerful front end framework for building SPAs for web and mobile devices.,"FEWD,Framework,Angular,JavaScript"
