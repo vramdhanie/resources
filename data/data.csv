@@ -10,3 +10,4 @@ date,title,url,description,tags
 2019-03-25,StackBlitz,https://stackblitz.com/,"From the website: >The online IDE for web applications. Powered by VS Code. Great for Angular, React, Ionic","FEWD,Tools,VSCode,IDE,Editor"
 2019-03-25,Puppeteer,https://github.com/GoogleChrome/puppeteer,For testing front end applications,"FEWD,Tools,Testing"
 2019-03-25,Parcel,https://parceljs.org/,A blazingly fast package manager for JS,"FEWD,Tools,Package"
+2019-03-25,UseBin,https://usebasin.com/,Form submission service with no backend code required. Free tier available,"Tools,Web Dev,Forms,Online Service"
