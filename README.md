@@ -42,5 +42,8 @@ automates the creation of a CSV file that stores a searchable list of bookmarks.
     Simple to follow tutorial on creating a npm package.
     
 17. [Research Resources](research)
-    Resources for accessing academic papers    
+    Resources for accessing academic papers   
+    
+18. [Open Broadcast Software](https://obsproject.com/)
+    For creating streams say on Youtube.
     
