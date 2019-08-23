@@ -47,3 +47,6 @@ automates the creation of a CSV file that stores a searchable list of bookmarks.
 18. [Open Broadcast Software](https://obsproject.com/)
     For creating streams say on Youtube.
     
+19. [Koji](https://withkoji.com/create)
+    System for remixing and creating games online. There is a job posting on Stack overflow paying $500 per game.
+    
