@@ -50,3 +50,8 @@ automates the creation of a CSV file that stores a searchable list of bookmarks.
 19. [Koji](https://withkoji.com/create)
     System for remixing and creating games online. There is a job posting on Stack overflow paying $500 per game.
     
+20. [Spectrum Chat](https://spectrum.chat/about)
+   Community chat. 
+   
+21. [xState](https://xstate.js.org/)    
+    Finite state machines for JS programs
