@@ -16,3 +16,6 @@ _Turns out the React ecosystem is far greater than I first imagined._
 
 5. [Kyt](https://github.com/nytimes/kyt)
    The New York Times React Starter.
+
+6. [React NodeGUI](https://react.nodegui.org/)
+   Build native GUI apps using React
