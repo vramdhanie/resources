@@ -22,3 +22,6 @@ _Turns out the React ecosystem is far greater than I first imagined._
 
 7. [Pastel](https://github.com/vadimdemedes/pastel)
    Built on top of ink
+
+8. [React Spring](https://www.react-spring.io/)
+   Simple animation primitives
