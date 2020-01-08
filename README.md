@@ -71,3 +71,6 @@ automates the creation of a CSV file that stores a searchable list of bookmarks.
 
 25. [NoCode](https://www.nocode.tech/)
     Curated list of nocode sites.
+
+26. [Excalidraw](https://www.excalidraw.com/)
+    Whiteboard that is a work in progress but so far excellent.
