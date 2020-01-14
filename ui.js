@@ -3,29 +3,36 @@ const React = require("react");
 const PropTypes = require("prop-types");
 const { Text, Color, Box } = require("ink");
 
-const App = options => (
+const App = ({ id, date, title, url, description, tags, error }) => (
 	<Box flexDirection="column" marginLeft={4}>
+		{error ? (
+			<Box marginTop={1} marginBottom={2}>
+				<Color red>{error}</Color>
+			</Box>
+		) : (
+			""
+		)}
 		<Box marginTop={1}>
 			<Box width={14}>Date:</Box>
-			<Color green>{options[0]}</Color>
+			<Color green>{date}</Color>
 		</Box>
 		<Box>
 			<Box width={14}>Name:</Box>
-			<Color green>{options[1]}</Color>
+			<Color green>{title}</Color>
 		</Box>
 		<Box>
 			<Box width={14}>Url:</Box>
-			<Color blue>{options[2]}</Color>
+			<Color blue>{url}</Color>
 		</Box>
 
 		<Box>
 			<Box width={14}>Description:</Box>
-			<Color>{options[3]}</Color>
+			<Color>{description}</Color>
 		</Box>
 
 		<Box>
 			<Box width={14}>Tags:</Box>
-			<Color>{options[4] ? options[4] : "None"}</Color>
+			<Color>{tags ? tags.join(", ") : "None"}</Color>
 		</Box>
 	</Box>
 );

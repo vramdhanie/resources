@@ -7,6 +7,7 @@ const importJsx = require("import-jsx");
 const { render } = require("ink");
 const meow = require("meow");
 const moment = require("moment");
+const uuid = require("uuid/v4");
 
 const ui = importJsx("./ui");
 
@@ -37,23 +38,39 @@ const options = cli.input;
 if (options.length < 3) {
 	cli.showHelp();
 } else {
+	const row = {
+		id: uuid(),
+		date: moment().format("YYYY-MM-DD"),
+		title: options[0],
+		url: options[1],
+		description: options[2]
+	};
+
 	if (options.length >= 4) {
-		options[3] = `"${options[3]}"`;
+		row.tags = options[3].split(",").map(t => t.trim());
 	}
-	options.unshift(moment().format("YYYY-MM-DD"));
-	const data = options.join(",") + "\n";
-	fs.appendFile("data/data.csv", data, err => {
+
+	fs.readFile("data/data.json", (err, data) => {
 		if (err) {
-			console.log("Could not write to file.");
-			console.log(err);
-		}
-		if (cli.flags.commit) {
-			exec("npm run commit", (err, stdout, stderr) => {
+			row.error = "Could not open file";
+		} else {
+			const links = JSON.parse(data);
+			links.push(row);
+			fs.writeFile("data/data.json", JSON.stringify(links), err => {
 				if (err) {
-					console.log("Could not commit changes");
+					row.error = "Could not write to file.";
+				} else {
+					if (cli.flags.commit) {
+						exec(`npm run commit`, (err, stdout, stderr) => {
+							if (err) {
+								row.error = "Could not commit changes";
+							}
+							//console.log(stdout);
+						});
+					}
 				}
 			});
 		}
-		render(React.createElement(ui, options));
+		render(React.createElement(ui, row));
 	});
 }

@@ -8,7 +8,7 @@
 	},
 	"scripts": {
 		"test": "xo && ava",
-		"commit": "git add data/data.csv && git commit -m 'Added a new link' && git push"
+		"commit": "git add data/data.json && git commit -m 'Add new link' && git push"
 	},
 	"files": [
 		"cli.js",
@@ -20,7 +20,8 @@
 		"meow": "^5.0.0",
 		"moment": "^2.24.0",
 		"prop-types": "^15.7.2",
-		"react": "^16.11.0"
+		"react": "^16.11.0",
+		"uuid": "^3.3.3"
 	},
 	"devDependencies": {
 		"@babel/preset-react": "^7.7.0",
