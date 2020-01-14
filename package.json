@@ -1,0 +1,49 @@
+{
+	"name": "resources",
+	"version": "0.0.0",
+	"license": "MIT",
+	"bin": "cli.js",
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava",
+		"commit": "git add data/data.csv && git commit -m 'Added a new link' && git push"
+	},
+	"files": [
+		"cli.js",
+		"ui.js"
+	],
+	"dependencies": {
+		"import-jsx": "^3.0.0",
+		"ink": "^2.5.0",
+		"meow": "^5.0.0",
+		"moment": "^2.24.0",
+		"prop-types": "^15.7.2",
+		"react": "^16.11.0"
+	},
+	"devDependencies": {
+		"@babel/preset-react": "^7.7.0",
+		"@babel/register": "^7.7.0",
+		"ava": "^2.4.0",
+		"chalk": "^3.0.0",
+		"eslint-config-xo-react": "^0.20.0",
+		"eslint-plugin-react": "^7.16.0",
+		"eslint-plugin-react-hooks": "^2.2.0",
+		"ink-testing-library": "^1.0.2",
+		"xo": "^0.25.3"
+	},
+	"ava": {
+		"require": [
+			"@babel/register"
+		]
+	},
+	"babel": {
+		"presets": [
+			"@babel/preset-react"
+		]
+	},
+	"xo": {
+		"extends": "xo-react"
+	}
+}

@@ -2,7 +2,7 @@
 
 _Manage a list of bookmarks using Git_
 
-This repo started off as a static file. In its current incarnation it is a simple Python script that
+This repo started off as a static file. In its current incarnation it is a simple ~~Python~~ Node script that
 automates the creation of a CSV file that stores a searchable list of bookmarks.
 
 1. [Cloud Services](cloud_services.md)
