@@ -61,7 +61,7 @@ if (options.length < 3) {
 					row.error = "Could not write to file.";
 				} else {
 					if (cli.flags.commit) {
-						exec(`npm run commit`, (err, stdout, stderr) => {
+						exec(`./commit.sh "Add ${row.title}"`, (err, stdout, stderr) => {
 							if (err) {
 								row.error = "Could not commit changes";
 							}
