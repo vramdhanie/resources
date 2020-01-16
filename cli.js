@@ -56,7 +56,7 @@ if (options.length < 3) {
 		} else {
 			const links = JSON.parse(data);
 			links.push(row);
-			fs.writeFile("data/data.json", JSON.stringify(links), err => {
+			fs.writeFile("data/data.json", JSON.stringify(links, null, 2), err => {
 				if (err) {
 					row.error = "Could not write to file.";
 				} else {
