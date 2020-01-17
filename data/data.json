@@ -1,570 +1,377 @@
 [
-  {
-    "id": "bf372e85-5a3d-4bad-b590-718b9cdd06bc",
-    "date": "2020-01-16",
-    "title": "React",
-    "url": "https://reactjs.org",
-    "description": "A JavaScript library for building user interfaces",
-    "tags": [
-      "library",
-      "javascript",
-      "react"
-    ]
-  },
-  {
-    "id": "f38dbff6-9143-4deb-98d0-58da94a9ad22",
-    "date": "2020-01-16",
-    "title": "React Native",
-    "url": "https://facebook.github.io/react-native",
-    "description": "Create native apps for Android and iOS using React",
-    "tags": [
-      "mobile",
-      "react",
-      "javascript",
-      "android",
-      "ios"
-    ]
-  },
-  {
-    "id": "5da2707d-5a0f-44ec-bf4a-43e510b6ce63",
-    "date": "2020-01-16",
-    "title": "Ink",
-    "url": "https://github.com/vadimdemedes/ink",
-    "description": "Using React to build CLI views",
-    "tags": [
-      "react",
-      "cli",
-      "library",
-      "ui",
-      "renderer"
-    ]
-  },
-  {
-    "id": "5b20a86a-19b3-41be-87cb-be059c71a102",
-    "date": "2020-01-16",
-    "title": "React PDF",
-    "url": "https://react-pdf.org",
-    "description": "Render PDF documents to file or to the web with React",
-    "tags": [
-      "react",
-      "renderer",
-      "pdf"
-    ]
-  },
-  {
-    "id": "074350da-06e0-40fb-830f-713c54110e81",
-    "date": "2020-01-16",
-    "title": "Kyt",
-    "url": "https://github.com/nytimes/kyt",
-    "description": "The New York Times React Starter",
-    "tags": [
-      "react",
-      "starter"
-    ]
-  },
-  {
-    "id": "14b2972a-bc47-4d75-8d12-8a66182cd9e6",
-    "date": "2020-01-16",
-    "title": "React NodeGUI",
-    "url": "https://react.nodegui.org",
-    "description": "Build native GUI apps using React",
-    "tags": [
-      "react",
-      "node",
-      "ui"
-    ]
-  },
-  {
-    "id": "9997ed09-4b30-4bcb-add0-3905fcf654e6",
-    "date": "2020-01-16",
-    "title": "Pastel",
-    "url": "https://github.com/vadimdemedes/pastel",
-    "description": "Built on top of ink",
-    "tags": [
-      "react ui cli colour"
-    ]
-  },
-  {
-    "id": "c7ac0614-c846-41e8-ad74-e96aa1210c08",
-    "date": "2020-01-16",
-    "title": "React Spring",
-    "url": "https://www.react-spring.io",
-    "description": "Simple, animation, primitives",
-    "tags": [
-      "react",
-      "spring",
-      "animation"
-    ]
-  },
-  {
-    "id": "d008fdb5-0a47-44cb-a9eb-080e5e99f06a",
-    "date": "2020-01-16",
-    "title": "arXiv",
-    "url": "https://arxiv.org",
-    "description": "From the Cornell University Library - Open access to 1,477,285 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics",
-    "tags": [
-      "research",
-      "science",
-      "papers"
-    ]
-  },
-  {
-    "id": "ed1112d2-3d65-4ccf-a1fe-5f9c626b82d5",
-    "date": "2020-01-16",
-    "title": "Internet Archive",
-    "url": "https://archive.org",
-    "description": "An archive of millions of digital artifacts.",
-    "tags": [
-      "research",
-      "papers",
-      "science"
-    ]
-  },
-  {
-    "id": "81a3d691-8f26-4e24-9e92-3480abd8b25f",
-    "date": "2020-01-16",
-    "title": "Introduction to Statistical Learning",
-    "url": "http://www-bcf.usc.edu/~gareth/ISL",
-    "description": "From their website --> This book provides an introduction to statistical learning methods.    It is aimed for upper level undergraduate students, masters students and Ph.D.    students in the non-mathematical sciences. The book also contains a number of R  labs with detailed explanations on how to implement the various methods in real   life settings, and should be a valuable resource for a practicing data scientist.",
-    "tags": [
-      "statistics",
-      "machine learning",
-      "R",
-      "data science",
-      "logic"
-    ]
-  },
-  {
-    "id": "90e5b216-a30c-406e-a0aa-20e9ca486fc6",
-    "date": "2020-01-16",
-    "title": "SticiGui",
-    "url": "https://www.stat.berkeley.edu/~stark/SticiGui/index.htm",
-    "description": "From the University of California, Berkeley --> This text was written for a terminal introductory class in Statistics suitable   students in Business, Communications, Economics, Psychology, Social Science,   or liberal arts; that is, this is the first and last class in Statistics for   most students who take it. It also covers logic and reasoning at a level suitable   for a general education course.",
-    "tags": [
-      "data science",
-      "machine learning",
-      "statistics",
-      "book"
-    ]
-  },
-  {
-    "id": "4ed4e85f-32de-4eea-87b5-f4848809248e",
-    "date": "2020-01-16",
-    "title": "Kaggle",
-    "url": "https://www.kaggle.com",
-    "description": "More than just Data sets. You have hosted jupyter notebooks and lots of examples of data analysis.",
-    "tags": [
-      "data",
-      "jupyter",
-      "machine learning",
-      "notebook"
-    ]
-  },
-  {
-    "id": "4077bbd6-eda8-4d75-81ce-6382f3dc0f79",
-    "date": "2020-01-16",
-    "title": "Google Dataset Search",
-    "url": "https://toolbox.google.com/datasetsearch",
-    "description": "Fairly new service by Google for searching datasets for a wide variety of topics",
-    "tags": [
-      "google",
-      "data",
-      "api"
-    ]
-  },
-  {
-    "id": "e643c390-4bf8-4b52-b1ba-57d7cbbb56f5",
-    "date": "2020-01-16",
-    "title": "PDS",
-    "url": "https://pds.jpl.nasa.gov/datasearch/data-search/",
-    "description": "NASA's Planetary Data Service",
-    "tags": [
-      "data",
-      "api",
-      "space",
-      "nasa"
-    ]
-  },
-  {
-    "id": "a6db10b1-bc37-4d39-b4c7-c50ac00a2388",
-    "date": "2020-01-16",
-    "title": "Evaluating Clustering Algorithms",
-    "url": "http://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte/theses/phd/algorithm.pdf",
-    "description": "Survey of clustering evaluation techniques with good summary of what evaluation means.",
-    "tags": [
-      "paper",
-      "algorithms",
-      "science",
-      "machine learning"
-    ]
-  },
-  {
-    "id": "abc43785-d4ef-494f-8acd-1ba7dc47f9b8",
-    "date": "2020-01-16",
-    "title": "Knowledge Graph Refinement",
-    "url": "http://www.semantic-web-journal.net/system/files/swj1167.pdf",
-    "description": "A Survey of Approaches and Evaluation Methods",
-    "tags": [
-      "paper",
-      "science",
-      "machine learning"
-    ]
-  },
-  {
-    "id": "eada23b3-1af1-4c7b-a4e7-3fc6159203cd",
-    "date": "2020-01-16",
-    "title": "Tensorflow",
-    "url": "https://www.tensorflow.org/",
-    "description": "An open source library for building machine learning systems. The [Getting Started](https://www.tensorflow.org/get_started/) tutorial is very good.",
-    "tags": [
-      "tensorflow",
-      "google",
-      "machine learning",
-      "deep learning",
-      "neural networks",
-      "tutorial"
-    ]
-  },
-  {
-    "id": "60d72faa-a3fb-43cd-8845-9f3f665a4a8a",
-    "date": "2020-01-16",
-    "title": "Intel Distribution for Python",
-    "url": "https://software.intel.com/en-us/distribution-for-python",
-    "description": "Highly optimized library for Machine Learning",
-    "tags": [
-      "python",
-      "intel",
-      "machine learning",
-      "programming"
-    ]
-  },
-  {
-    "id": "cdd23ac6-df23-414b-a4a2-3871596cc32c",
-    "date": "2020-01-16",
-    "title": "Data School's ROC",
-    "url": "http://www.dataschool.io/roc-curves-and-auc-explained",
-    "description": "A few videos that explain ROC well",
-    "tags": [
-      "video",
-      "tutorial",
-      "ROC",
-      "data science"
-    ]
-  },
-  {
-    "id": "7c02b79b-9f26-43f2-842c-0edf07bc6fda",
-    "date": "2020-01-16",
-    "title": "Data School",
-    "url": "http://www.dataschool.io/15-hours-of-expert-machine-learning-videos",
-    "description": "A full intro to the field of Data Science",
-    "tags": [
-      "data science",
-      "school",
-      "tutorial"
-    ]
-  },
-  {
-    "id": "c6fd6956-b987-4725-b867-22979df0ee4e",
-    "date": "2020-01-16",
-    "title": "Google's Machine Learning Glossary",
-    "url": "https://developers.google.com/machine-learning/glossary",
-    "description": "A beginner friendly glossary of terms used in ML",
-    "tags": [
-      "google",
-      "machine learning",
-      "tutorial"
-    ]
-  },
-  {
-    "id": "ae302531-8c4a-4085-bb81-6c19c32e330d",
-    "date": "2020-01-16",
-    "title": "Google's Machine Learning Guides",
-    "url": "https://developers.google.com/machine-learning/guides",
-    "description": "Excellent ML guides with code examples.",
-    "tags": [
-      "google",
-      "tutorial",
-      "machine learning"
-    ]
-  },
-  {
-    "id": "dedae44f-d9fd-4b9b-a736-6c8ea832d942",
-    "date": "2020-01-16",
-    "title": "Dealing with Text",
-    "url": "https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python",
-    "description": "Article that gives quick overview of various text techniques",
-    "tags": [
-      "article",
-      "text",
-      "python",
-      "machine learning"
-    ]
-  },
-  {
-    "id": "af4850cc-e323-4ba6-bf7e-5d2f24aca64f",
-    "date": "2020-01-16",
-    "title": "Kaggle's Bag of Words Tutorial/Exercise",
-    "url": "https://www.kaggle.com/c/word2vec-nlp-tutorial",
-    "description": "This walkthrough explains using Bag of Words and other text processing techniques",
-    "tags": [
-      "kaggle",
-      "machine learning",
-      "text",
-      "bag of words"
-    ]
-  },
-  {
-    "id": "c3967520-67ab-4e9e-9142-06ebf39bbfd9",
-    "date": "2020-01-16",
-    "title": "Figma",
-    "url": "https://www.figma.com",
-    "description": "Alternative to sketch",
-    "tags": [
-      "graphic design",
-      "tool",
-      "wireframe"
-    ]
-  },
-  {
-    "id": "a5d85584-8855-4ee1-b36c-6a7ad711dfdb",
-    "date": "2020-01-16",
-    "title": "Gravit Designer",
-    "url": "https://designer.gravit.io",
-    "description": "Mature designer software",
-    "tags": [
-      "graphic design",
-      "tool"
-    ]
-  },
-  {
-    "id": "df819b5c-9c14-4fbe-9dc7-0527fba49e5e",
-    "date": "2020-01-16",
-    "title": "draw.io",
-    "url": "https://draw.io",
-    "description": "Very robust drawing tool",
-    "tags": [
-      "graphic design",
-      "drawing",
-      "wireframe",
-      "diagrams"
-    ]
-  },
-  {
-    "id": "b479ec3f-1d14-4c3a-84cc-2e7996b0d551",
-    "date": "2020-01-16",
-    "title": "Paypal Downshift",
-    "url": "https://github.com/paypal/downshift",
-    "description": "Primitives to build simple, flexible, WAI-ARIA compliant React autocomplete/dropdown/select/combobox components. This [blogpost](https://blog.kentcdodds.com/introducing-downshift-for-react-b1de3fca0817) explains it well.",
-    "tags": [
-      "tutorial",
-      "react",
-      "library"
-    ]
-  },
-  {
-    "id": "7f00b05c-c212-4971-9e2d-4d1000c5909c",
-    "date": "2020-01-16",
-    "title": "GreenSock",
-    "url": "https://greensock.com",
-    "description": "From the official site:\\n\\n> Ultra high-performance, professional-grade animation for the modern web",
-    "tags": [
-      "animation",
-      "fewd"
-    ]
-  },
-  {
-    "id": "3335dbb9-28a1-4889-a204-fc5cfa6baa9f",
-    "date": "2020-01-16",
-    "title": "Crouton",
-    "url": "https://github.com/dnschneid/crouton",
-    "description": "From the README:\\n\\n>crouton is a set of scripts that bundle up into an easy-to-use,  Chromium OS-centric chroot generator. \\n Basically a way to run native linux on a chromebook.",
-    "tags": [
-      "operating systems",
-      "chromium",
-      "linux"
-    ]
-  },
-  {
-    "id": "b74d8f7b-ffa8-466e-b7c5-3ba95b870bbd",
-    "date": "2020-01-16",
-    "title": "Google Cloud Labs",
-    "url": "https://cloud.google.com/training/free-labs/?utm_source=coursera&utm_medium=email&utm_campaign=GCP_comm_Jan2019",
-    "description": "These free labs take about 30 mins and introduce various technologies and services on the Google Cloud Platform.",
-    "tags": [
-      "google",
-      "cloud",
-      "tutorial",
-      "course"
-    ]
-  },
-  {
-    "id": "911a0e41-b1ed-429a-a865-aeed0041f0ca",
-    "date": "2020-01-16",
-    "title": "Material.io Style Guide",
-    "url": "https://material.io/guidelines/style/color.html#",
-    "description": "Very good colour and design advice for mobile and web applications",
-    "tags": [
-      "material",
-      "style",
-      "colour",
-      "design",
-      "guidelines"
-    ]
-  },
-  {
-    "id": "63753547-bf84-416a-94e3-0dac80b22611",
-    "date": "2020-01-16",
-    "title": "Colour Safe",
-    "url": "http://colorsafe.co",
-    "description": "Easy way to generate colour palettes for the web.",
-    "tags": [
-      "colour",
-      "design"
-    ]
-  },
-  {
-    "id": "b200bef9-d914-4876-b0ac-cec3c430f4b1",
-    "date": "2020-01-16",
-    "title": "Abode Color Tool",
-    "url": "https://color.adobe.com/create",
-    "description": "Another great colour tool",
-    "tags": [
-      "colour",
-      "adobe",
-      "design",
-      "tool"
-    ]
-  },
-  {
-    "id": "fe46108f-c016-481f-a878-91b98fa43af6",
-    "date": "2020-01-16",
-    "title": "Material Colour Tool",
-    "url": "https://material.io/resources/color/#!/?view.left=0&view.right=0",
-    "description": "Select colours for the web using this interactive colour tool.",
-    "tags": [
-      "colour",
-      "material",
-      "tool",
-      "pallette"
-    ]
-  },
-  {
-    "id": "bfadcebf-bc95-4bd2-a0d9-3c45acbed05e",
-    "date": "2020-01-16",
-    "title": "Website Mockup Generator",
-    "url": "https://techsini.com/multi-mockup/index.php",
-    "description": "Very cool tool to generate simple mockups of websites on various devices.",
-    "tags": [
-      "mockup",
-      "tool",
-      "design",
-      "nocode"
-    ]
-  },
-  {
-    "id": "a1cc6db0-abe3-45a7-bdb4-b3c9f81c2168",
-    "date": "2020-01-16",
-    "title": "How to GraphQL",
-    "url": "https://www.howtographql.com",
-    "description": "The free and open-source tutorial to learn all around GraphQL to go from zero to production.<br>Includes react-relay",
-    "tags": [
-      "graphql",
-      "tutorial"
-    ]
-  },
-  {
-    "id": "1e6d5635-fc38-4aab-b023-3494c1032f9f",
-    "date": "2020-01-16",
-    "title": "CS50",
-    "url": "https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x?inf_contact_key=48db6b8c9c1c95f472c86366d8c52425",
-    "description": "An introduction to the intellectual enterprises of computer science and the art of programming. Harvard University's EdX comp Sci offering for beginners.",
-    "tags": [
-      "computer science",
-      "course",
-      "harvard",
-      "edx",
-      "programming"
-    ]
-  },
-  {
-    "id": "0e37a634-b4f7-46d7-9459-2aa912f8c2e2",
-    "date": "2020-01-16",
-    "title": "Electron",
-    "url": "https://electronjs.org/",
-    "description": "Build cross platform desktop apps with JS, HTML, CSS. Used by Slack, Discord and many others.",
-    "tags": [
-      "javascript",
-      "electron",
-      "desktop",
-      "tool"
-    ]
-  },
-  {
-    "id": "5f3650e5-f6c7-4f7c-9b15-18d619e3065b",
-    "date": "2020-01-16",
-    "title": "CLI Cheatsheet",
-    "url": "https://github.com/sw-yx/cli-cheatsheet/blob/master/README.md",
-    "description": "List of tools for building CLIs.",
-    "tags": [
-      "cli",
-      "list",
-      "tutorial"
-    ]
-  },
-  {
-    "id": "a5edc8a7-1af2-496e-b158-9d05f6b494f9",
-    "date": "2020-01-16",
-    "title": "Bazel",
-    "url": "https://www.bazel.build",
-    "description": "A build tool from Google.",
-    "tags": [
-      "build",
-      "devops",
-      "google",
-      "tool"
-    ]
-  },
-  {
-    "id": "ff4627c0-c4ed-4495-a91a-19db0c8be512",
-    "date": "2020-01-16",
-    "title": "Docusaurus",
-    "url": "https://docusaurus.io/en",
-    "description": "Open source documentation website used by all the greats. Based on React.",
-    "tags": [
-      "documentation",
-      "framework",
-      "react",
-      "open source"
-    ]
-  },
-  {
-    "id": "2f5de244-0208-482f-9c93-9d9d604cac05",
-    "date": "2020-01-16",
-    "title": "AST Explorer",
-    "url": "https://astexplorer.net",
-    "description": "Examine the AST (Abstract Syntax Tree) generated by many different languages. Great for studying parsing and syntax.",
-    "tags": [
-      "AST",
-      "parsing",
-      "language",
-      "programming",
-      "tool",
-      "compiler",
-      "syntax"
-    ]
-  },
-  {
-    "id": "6b9da5d1-552a-4995-9775-ec4f6d4d852d",
-    "date": "2020-01-16",
-    "title": "Godbolt Compiler Explorer",
-    "url": "https://godbolt.org",
-    "description": "Examine the assembly code produced by many different compilers. Excellent tool for studying languages and compilers.",
-    "tags": [
-      "assembly",
-      "language",
-      "programming",
-      "compiler",
-      "syntax"
-    ]
-  }
+	{
+		"id": "bf372e85-5a3d-4bad-b590-718b9cdd06bc",
+		"date": "2020-01-16",
+		"title": "React",
+		"url": "https://reactjs.org",
+		"description": "A JavaScript library for building user interfaces",
+		"tags": ["library", "javascript", "react"]
+	},
+	{
+		"id": "f38dbff6-9143-4deb-98d0-58da94a9ad22",
+		"date": "2020-01-16",
+		"title": "React Native",
+		"url": "https://facebook.github.io/react-native",
+		"description": "Create native apps for Android and iOS using React",
+		"tags": ["mobile", "react", "javascript", "android", "ios"]
+	},
+	{
+		"id": "5da2707d-5a0f-44ec-bf4a-43e510b6ce63",
+		"date": "2020-01-16",
+		"title": "Ink",
+		"url": "https://github.com/vadimdemedes/ink",
+		"description": "Using React to build CLI views",
+		"tags": ["react", "cli", "library", "ui", "renderer"]
+	},
+	{
+		"id": "5b20a86a-19b3-41be-87cb-be059c71a102",
+		"date": "2020-01-16",
+		"title": "React PDF",
+		"url": "https://react-pdf.org",
+		"description": "Render PDF documents to file or to the web with React",
+		"tags": ["react", "renderer", "pdf"]
+	},
+	{
+		"id": "074350da-06e0-40fb-830f-713c54110e81",
+		"date": "2020-01-16",
+		"title": "Kyt",
+		"url": "https://github.com/nytimes/kyt",
+		"description": "The New York Times React Starter",
+		"tags": ["react", "starter"]
+	},
+	{
+		"id": "14b2972a-bc47-4d75-8d12-8a66182cd9e6",
+		"date": "2020-01-16",
+		"title": "React NodeGUI",
+		"url": "https://react.nodegui.org",
+		"description": "Build native GUI apps using React",
+		"tags": ["react", "node", "ui"]
+	},
+	{
+		"id": "9997ed09-4b30-4bcb-add0-3905fcf654e6",
+		"date": "2020-01-16",
+		"title": "Pastel",
+		"url": "https://github.com/vadimdemedes/pastel",
+		"description": "Built on top of ink",
+		"tags": ["react ui cli colour"]
+	},
+	{
+		"id": "c7ac0614-c846-41e8-ad74-e96aa1210c08",
+		"date": "2020-01-16",
+		"title": "React Spring",
+		"url": "https://www.react-spring.io",
+		"description": "Simple, animation, primitives",
+		"tags": ["react", "spring", "animation"]
+	},
+	{
+		"id": "d008fdb5-0a47-44cb-a9eb-080e5e99f06a",
+		"date": "2020-01-16",
+		"title": "arXiv",
+		"url": "https://arxiv.org",
+		"description": "From the Cornell University Library - Open access to 1,477,285 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics",
+		"tags": ["research", "science", "papers"]
+	},
+	{
+		"id": "ed1112d2-3d65-4ccf-a1fe-5f9c626b82d5",
+		"date": "2020-01-16",
+		"title": "Internet Archive",
+		"url": "https://archive.org",
+		"description": "An archive of millions of digital artifacts.",
+		"tags": ["research", "papers", "science"]
+	},
+	{
+		"id": "81a3d691-8f26-4e24-9e92-3480abd8b25f",
+		"date": "2020-01-16",
+		"title": "Introduction to Statistical Learning",
+		"url": "http://www-bcf.usc.edu/~gareth/ISL",
+		"description": "From their website --> This book provides an introduction to statistical learning methods.    It is aimed for upper level undergraduate students, masters students and Ph.D.    students in the non-mathematical sciences. The book also contains a number of R  labs with detailed explanations on how to implement the various methods in real   life settings, and should be a valuable resource for a practicing data scientist.",
+		"tags": ["statistics", "machine learning", "R", "data science", "logic"]
+	},
+	{
+		"id": "90e5b216-a30c-406e-a0aa-20e9ca486fc6",
+		"date": "2020-01-16",
+		"title": "SticiGui",
+		"url": "https://www.stat.berkeley.edu/~stark/SticiGui/index.htm",
+		"description": "From the University of California, Berkeley --> This text was written for a terminal introductory class in Statistics suitable   students in Business, Communications, Economics, Psychology, Social Science,   or liberal arts; that is, this is the first and last class in Statistics for   most students who take it. It also covers logic and reasoning at a level suitable   for a general education course.",
+		"tags": ["data science", "machine learning", "statistics", "book"]
+	},
+	{
+		"id": "4ed4e85f-32de-4eea-87b5-f4848809248e",
+		"date": "2020-01-16",
+		"title": "Kaggle",
+		"url": "https://www.kaggle.com",
+		"description": "More than just Data sets. You have hosted jupyter notebooks and lots of examples of data analysis.",
+		"tags": ["data", "jupyter", "machine learning", "notebook"]
+	},
+	{
+		"id": "4077bbd6-eda8-4d75-81ce-6382f3dc0f79",
+		"date": "2020-01-16",
+		"title": "Google Dataset Search",
+		"url": "https://toolbox.google.com/datasetsearch",
+		"description": "Fairly new service by Google for searching datasets for a wide variety of topics",
+		"tags": ["google", "data", "api"]
+	},
+	{
+		"id": "e643c390-4bf8-4b52-b1ba-57d7cbbb56f5",
+		"date": "2020-01-16",
+		"title": "PDS",
+		"url": "https://pds.jpl.nasa.gov/datasearch/data-search/",
+		"description": "NASA's Planetary Data Service",
+		"tags": ["data", "api", "space", "nasa"]
+	},
+	{
+		"id": "a6db10b1-bc37-4d39-b4c7-c50ac00a2388",
+		"date": "2020-01-16",
+		"title": "Evaluating Clustering Algorithms",
+		"url": "http://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte/theses/phd/algorithm.pdf",
+		"description": "Survey of clustering evaluation techniques with good summary of what evaluation means.",
+		"tags": ["paper", "algorithms", "science", "machine learning"]
+	},
+	{
+		"id": "abc43785-d4ef-494f-8acd-1ba7dc47f9b8",
+		"date": "2020-01-16",
+		"title": "Knowledge Graph Refinement",
+		"url": "http://www.semantic-web-journal.net/system/files/swj1167.pdf",
+		"description": "A Survey of Approaches and Evaluation Methods",
+		"tags": ["paper", "science", "machine learning"]
+	},
+	{
+		"id": "eada23b3-1af1-4c7b-a4e7-3fc6159203cd",
+		"date": "2020-01-16",
+		"title": "Tensorflow",
+		"url": "https://www.tensorflow.org/",
+		"description": "An open source library for building machine learning systems. The [Getting Started](https://www.tensorflow.org/get_started/) tutorial is very good.",
+		"tags": [
+			"tensorflow",
+			"google",
+			"machine learning",
+			"deep learning",
+			"neural networks",
+			"tutorial"
+		]
+	},
+	{
+		"id": "60d72faa-a3fb-43cd-8845-9f3f665a4a8a",
+		"date": "2020-01-16",
+		"title": "Intel Distribution for Python",
+		"url": "https://software.intel.com/en-us/distribution-for-python",
+		"description": "Highly optimized library for Machine Learning",
+		"tags": ["python", "intel", "machine learning", "programming"]
+	},
+	{
+		"id": "cdd23ac6-df23-414b-a4a2-3871596cc32c",
+		"date": "2020-01-16",
+		"title": "Data School's ROC",
+		"url": "http://www.dataschool.io/roc-curves-and-auc-explained",
+		"description": "A few videos that explain ROC well",
+		"tags": ["video", "tutorial", "ROC", "data science"]
+	},
+	{
+		"id": "7c02b79b-9f26-43f2-842c-0edf07bc6fda",
+		"date": "2020-01-16",
+		"title": "Data School",
+		"url": "http://www.dataschool.io/15-hours-of-expert-machine-learning-videos",
+		"description": "A full intro to the field of Data Science",
+		"tags": ["data science", "school", "tutorial"]
+	},
+	{
+		"id": "c6fd6956-b987-4725-b867-22979df0ee4e",
+		"date": "2020-01-16",
+		"title": "Google's Machine Learning Glossary",
+		"url": "https://developers.google.com/machine-learning/glossary",
+		"description": "A beginner friendly glossary of terms used in ML",
+		"tags": ["google", "machine learning", "tutorial"]
+	},
+	{
+		"id": "ae302531-8c4a-4085-bb81-6c19c32e330d",
+		"date": "2020-01-16",
+		"title": "Google's Machine Learning Guides",
+		"url": "https://developers.google.com/machine-learning/guides",
+		"description": "Excellent ML guides with code examples.",
+		"tags": ["google", "tutorial", "machine learning"]
+	},
+	{
+		"id": "dedae44f-d9fd-4b9b-a736-6c8ea832d942",
+		"date": "2020-01-16",
+		"title": "Dealing with Text",
+		"url": "https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python",
+		"description": "Article that gives quick overview of various text techniques",
+		"tags": ["article", "text", "python", "machine learning"]
+	},
+	{
+		"id": "af4850cc-e323-4ba6-bf7e-5d2f24aca64f",
+		"date": "2020-01-16",
+		"title": "Kaggle's Bag of Words Tutorial/Exercise",
+		"url": "https://www.kaggle.com/c/word2vec-nlp-tutorial",
+		"description": "This walkthrough explains using Bag of Words and other text processing techniques",
+		"tags": ["kaggle", "machine learning", "text", "bag of words"]
+	},
+	{
+		"id": "c3967520-67ab-4e9e-9142-06ebf39bbfd9",
+		"date": "2020-01-16",
+		"title": "Figma",
+		"url": "https://www.figma.com",
+		"description": "Alternative to sketch",
+		"tags": ["graphic design", "tool", "wireframe"]
+	},
+	{
+		"id": "a5d85584-8855-4ee1-b36c-6a7ad711dfdb",
+		"date": "2020-01-16",
+		"title": "Gravit Designer",
+		"url": "https://designer.gravit.io",
+		"description": "Mature designer software",
+		"tags": ["graphic design", "tool"]
+	},
+	{
+		"id": "df819b5c-9c14-4fbe-9dc7-0527fba49e5e",
+		"date": "2020-01-16",
+		"title": "draw.io",
+		"url": "https://draw.io",
+		"description": "Very robust drawing tool",
+		"tags": ["graphic design", "drawing", "wireframe", "diagrams"]
+	},
+	{
+		"id": "b479ec3f-1d14-4c3a-84cc-2e7996b0d551",
+		"date": "2020-01-16",
+		"title": "Paypal Downshift",
+		"url": "https://github.com/paypal/downshift",
+		"description": "Primitives to build simple, flexible, WAI-ARIA compliant React autocomplete/dropdown/select/combobox components. This [blogpost](https://blog.kentcdodds.com/introducing-downshift-for-react-b1de3fca0817) explains it well.",
+		"tags": ["tutorial", "react", "library"]
+	},
+	{
+		"id": "7f00b05c-c212-4971-9e2d-4d1000c5909c",
+		"date": "2020-01-16",
+		"title": "GreenSock",
+		"url": "https://greensock.com",
+		"description": "From the official site:<br><blockquote> Ultra high-performance, professional-grade animation for the modern web</blockquote>",
+		"tags": ["animation", "fewd"]
+	},
+	{
+		"id": "3335dbb9-28a1-4889-a204-fc5cfa6baa9f",
+		"date": "2020-01-16",
+		"title": "Crouton",
+		"url": "https://github.com/dnschneid/crouton",
+		"description": "From the README:<br><blockquote>crouton is a set of scripts that bundle up into an easy-to-use,  Chromium OS-centric chroot generator.</blockquote> <br> Basically a way to run native linux on a chromebook.",
+		"tags": ["operating systems", "chromium", "linux"]
+	},
+	{
+		"id": "b74d8f7b-ffa8-466e-b7c5-3ba95b870bbd",
+		"date": "2020-01-16",
+		"title": "Google Cloud Labs",
+		"url": "https://cloud.google.com/training/free-labs/?utm_source=coursera&utm_medium=email&utm_campaign=GCP_comm_Jan2019",
+		"description": "These free labs take about 30 mins and introduce various technologies and services on the Google Cloud Platform.",
+		"tags": ["google", "cloud", "tutorial", "course"]
+	},
+	{
+		"id": "911a0e41-b1ed-429a-a865-aeed0041f0ca",
+		"date": "2020-01-16",
+		"title": "Material.io Style Guide",
+		"url": "https://material.io/guidelines/style/color.html#",
+		"description": "Very good colour and design advice for mobile and web applications",
+		"tags": ["material", "style", "colour", "design", "guidelines"]
+	},
+	{
+		"id": "63753547-bf84-416a-94e3-0dac80b22611",
+		"date": "2020-01-16",
+		"title": "Colour Safe",
+		"url": "http://colorsafe.co",
+		"description": "Easy way to generate colour palettes for the web.",
+		"tags": ["colour", "design"]
+	},
+	{
+		"id": "b200bef9-d914-4876-b0ac-cec3c430f4b1",
+		"date": "2020-01-16",
+		"title": "Abode Color Tool",
+		"url": "https://color.adobe.com/create",
+		"description": "Another great colour tool",
+		"tags": ["colour", "adobe", "design", "tool"]
+	},
+	{
+		"id": "fe46108f-c016-481f-a878-91b98fa43af6",
+		"date": "2020-01-16",
+		"title": "Material Colour Tool",
+		"url": "https://material.io/resources/color/#!/?view.left=0&view.right=0",
+		"description": "Select colours for the web using this interactive colour tool.",
+		"tags": ["colour", "material", "tool", "pallette"]
+	},
+	{
+		"id": "bfadcebf-bc95-4bd2-a0d9-3c45acbed05e",
+		"date": "2020-01-16",
+		"title": "Website Mockup Generator",
+		"url": "https://techsini.com/multi-mockup/index.php",
+		"description": "Very cool tool to generate simple mockups of websites on various devices.",
+		"tags": ["mockup", "tool", "design", "nocode"]
+	},
+	{
+		"id": "a1cc6db0-abe3-45a7-bdb4-b3c9f81c2168",
+		"date": "2020-01-16",
+		"title": "How to GraphQL",
+		"url": "https://www.howtographql.com",
+		"description": "The free and open-source tutorial to learn all around GraphQL to go from zero to production.<br>Includes react-relay",
+		"tags": ["graphql", "tutorial"]
+	},
+	{
+		"id": "1e6d5635-fc38-4aab-b023-3494c1032f9f",
+		"date": "2020-01-16",
+		"title": "CS50",
+		"url": "https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x?inf_contact_key=48db6b8c9c1c95f472c86366d8c52425",
+		"description": "An introduction to the intellectual enterprises of computer science and the art of programming. Harvard University's EdX comp Sci offering for beginners.",
+		"tags": ["computer science", "course", "harvard", "edx", "programming"]
+	},
+	{
+		"id": "0e37a634-b4f7-46d7-9459-2aa912f8c2e2",
+		"date": "2020-01-16",
+		"title": "Electron",
+		"url": "https://electronjs.org/",
+		"description": "Build cross platform desktop apps with JS, HTML, CSS. Used by Slack, Discord and many others.",
+		"tags": ["javascript", "electron", "desktop", "tool"]
+	},
+	{
+		"id": "5f3650e5-f6c7-4f7c-9b15-18d619e3065b",
+		"date": "2020-01-16",
+		"title": "CLI Cheatsheet",
+		"url": "https://github.com/sw-yx/cli-cheatsheet/blob/master/README.md",
+		"description": "List of tools for building CLIs.",
+		"tags": ["cli", "list", "tutorial"]
+	},
+	{
+		"id": "a5edc8a7-1af2-496e-b158-9d05f6b494f9",
+		"date": "2020-01-16",
+		"title": "Bazel",
+		"url": "https://www.bazel.build",
+		"description": "A build tool from Google.",
+		"tags": ["build", "devops", "google", "tool"]
+	},
+	{
+		"id": "ff4627c0-c4ed-4495-a91a-19db0c8be512",
+		"date": "2020-01-16",
+		"title": "Docusaurus",
+		"url": "https://docusaurus.io/en",
+		"description": "Open source documentation website used by all the greats. Based on React.",
+		"tags": ["documentation", "framework", "react", "open source"]
+	},
+	{
+		"id": "2f5de244-0208-482f-9c93-9d9d604cac05",
+		"date": "2020-01-16",
+		"title": "AST Explorer",
+		"url": "https://astexplorer.net",
+		"description": "Examine the AST (Abstract Syntax Tree) generated by many different languages. Great for studying parsing and syntax.",
+		"tags": [
+			"AST",
+			"parsing",
+			"language",
+			"programming",
+			"tool",
+			"compiler",
+			"syntax"
+		]
+	},
+	{
+		"id": "6b9da5d1-552a-4995-9775-ec4f6d4d852d",
+		"date": "2020-01-16",
+		"title": "Godbolt Compiler Explorer",
+		"url": "https://godbolt.org",
+		"description": "Examine the assembly code produced by many different compilers. Excellent tool for studying languages and compilers.",
+		"tags": ["assembly", "language", "programming", "compiler", "syntax"]
+	}
 ]
