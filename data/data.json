@@ -396,5 +396,69 @@
       "tutorial",
       "course"
     ]
+  },
+  {
+    "id": "911a0e41-b1ed-429a-a865-aeed0041f0ca",
+    "date": "2020-01-16",
+    "title": "Material.io Style Guide",
+    "url": "https://material.io/guidelines/style/color.html#",
+    "description": "Very good colour and design advice for mobile and web applications",
+    "tags": [
+      "material",
+      "style",
+      "colour",
+      "design",
+      "guidelines"
+    ]
+  },
+  {
+    "id": "63753547-bf84-416a-94e3-0dac80b22611",
+    "date": "2020-01-16",
+    "title": "Colour Safe",
+    "url": "http://colorsafe.co",
+    "description": "Easy way to generate colour palettes for the web.",
+    "tags": [
+      "colour",
+      "design"
+    ]
+  },
+  {
+    "id": "b200bef9-d914-4876-b0ac-cec3c430f4b1",
+    "date": "2020-01-16",
+    "title": "Abode Color Tool",
+    "url": "https://color.adobe.com/create",
+    "description": "Another great colour tool",
+    "tags": [
+      "colour",
+      "adobe",
+      "design",
+      "tool"
+    ]
+  },
+  {
+    "id": "fe46108f-c016-481f-a878-91b98fa43af6",
+    "date": "2020-01-16",
+    "title": "Material Colour Tool",
+    "url": "https://material.io/resources/color/#!/?view.left=0&view.right=0",
+    "description": "Select colours for the web using this interactive colour tool.",
+    "tags": [
+      "colour",
+      "material",
+      "tool",
+      "pallette"
+    ]
+  },
+  {
+    "id": "bfadcebf-bc95-4bd2-a0d9-3c45acbed05e",
+    "date": "2020-01-16",
+    "title": "Website Mockup Generator",
+    "url": "https://techsini.com/multi-mockup/index.php",
+    "description": "Very cool tool to generate simple mockups of websites on various devices.",
+    "tags": [
+      "mockup",
+      "tool",
+      "design",
+      "nocode"
+    ]
   }
 ]
