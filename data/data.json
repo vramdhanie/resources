@@ -237,5 +237,80 @@
       "machine learning",
       "programming"
     ]
+  },
+  {
+    "id": "cdd23ac6-df23-414b-a4a2-3871596cc32c",
+    "date": "2020-01-16",
+    "title": "Data School's ROC",
+    "url": "http://www.dataschool.io/roc-curves-and-auc-explained",
+    "description": "A few videos that explain ROC well",
+    "tags": [
+      "video",
+      "tutorial",
+      "ROC",
+      "data science"
+    ]
+  },
+  {
+    "id": "7c02b79b-9f26-43f2-842c-0edf07bc6fda",
+    "date": "2020-01-16",
+    "title": "Data School",
+    "url": "http://www.dataschool.io/15-hours-of-expert-machine-learning-videos",
+    "description": "A full intro to the field of Data Science",
+    "tags": [
+      "data science",
+      "school",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "c6fd6956-b987-4725-b867-22979df0ee4e",
+    "date": "2020-01-16",
+    "title": "Google's Machine Learning Glossary",
+    "url": "https://developers.google.com/machine-learning/glossary",
+    "description": "A beginner friendly glossary of terms used in ML",
+    "tags": [
+      "google",
+      "machine learning",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "ae302531-8c4a-4085-bb81-6c19c32e330d",
+    "date": "2020-01-16",
+    "title": "Google's Machine Learning Guides",
+    "url": "https://developers.google.com/machine-learning/guides",
+    "description": "Excellent ML guides with code examples.",
+    "tags": [
+      "google",
+      "tutorial",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "dedae44f-d9fd-4b9b-a736-6c8ea832d942",
+    "date": "2020-01-16",
+    "title": "Dealing with Text",
+    "url": "https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python",
+    "description": "Article that gives quick overview of various text techniques",
+    "tags": [
+      "article",
+      "text",
+      "python",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "af4850cc-e323-4ba6-bf7e-5d2f24aca64f",
+    "date": "2020-01-16",
+    "title": "Kaggle's Bag of Words Tutorial/Exercise",
+    "url": "https://www.kaggle.com/c/word2vec-nlp-tutorial",
+    "description": "This walkthrough explains using Bag of Words and other text processing techniques",
+    "tags": [
+      "kaggle",
+      "machine learning",
+      "text",
+      "bag of words"
+    ]
   }
 ]
