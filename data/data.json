@@ -460,5 +460,30 @@
       "design",
       "nocode"
     ]
+  },
+  {
+    "id": "a1cc6db0-abe3-45a7-bdb4-b3c9f81c2168",
+    "date": "2020-01-16",
+    "title": "How to GraphQL",
+    "url": "https://www.howtographql.com",
+    "description": "The free and open-source tutorial to learn all around GraphQL to go from zero to production.<br>Includes react-relay",
+    "tags": [
+      "graphql",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "1e6d5635-fc38-4aab-b023-3494c1032f9f",
+    "date": "2020-01-16",
+    "title": "CS50",
+    "url": "https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x?inf_contact_key=48db6b8c9c1c95f472c86366d8c52425",
+    "description": "An introduction to the intellectual enterprises of computer science and the art of programming. Harvard University's EdX comp Sci offering for beginners.",
+    "tags": [
+      "computer science",
+      "course",
+      "harvard",
+      "edx",
+      "programming"
+    ]
   }
 ]
