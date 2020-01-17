@@ -589,5 +589,30 @@
       "testing",
       "library"
     ]
+  },
+  {
+    "id": "2ff1cf67-9868-4e7a-914e-e8de5fc70951",
+    "date": "2020-01-17",
+    "title": "Sequelize",
+    "url": "http://docs.sequelizejs.com",
+    "description": "Sequelize is a promise-based ORM for Node.js v4 and up. It supports the dialects PostgreSQL, MySQL, SQLite and MSSQL and features solid transaction support, relations, read replication and more.",
+    "tags": [
+      "orm",
+      "sql",
+      "node",
+      "database"
+    ]
+  },
+  {
+    "id": "6f27bbbe-3cbd-44e5-b634-a25d8cbcf7f8",
+    "date": "2020-01-17",
+    "title": "GraphQL",
+    "url": "http://graphql.org",
+    "description": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.",
+    "tags": [
+      "graphql",
+      "query",
+      "database"
+    ]
   }
 ]
