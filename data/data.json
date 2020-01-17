@@ -312,5 +312,41 @@
       "text",
       "bag of words"
     ]
+  },
+  {
+    "id": "c3967520-67ab-4e9e-9142-06ebf39bbfd9",
+    "date": "2020-01-16",
+    "title": "Figma",
+    "url": "https://www.figma.com",
+    "description": "Alternative to sketch",
+    "tags": [
+      "graphic design",
+      "tool",
+      "wireframe"
+    ]
+  },
+  {
+    "id": "a5d85584-8855-4ee1-b36c-6a7ad711dfdb",
+    "date": "2020-01-16",
+    "title": "Gravit Designer",
+    "url": "https://designer.gravit.io",
+    "description": "Mature designer software",
+    "tags": [
+      "graphic design",
+      "tool"
+    ]
+  },
+  {
+    "id": "df819b5c-9c14-4fbe-9dc7-0527fba49e5e",
+    "date": "2020-01-16",
+    "title": "draw.io",
+    "url": "https://draw.io",
+    "description": "Very robust drawing tool",
+    "tags": [
+      "graphic design",
+      "drawing",
+      "wireframe",
+      "diagrams"
+    ]
   }
 ]
