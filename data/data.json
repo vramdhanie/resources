@@ -699,5 +699,62 @@
       "podcast",
       "functional programming"
     ]
+  },
+  {
+    "id": "cbd952d2-154a-41a0-a2ad-1c112ea81421",
+    "date": "2020-01-17",
+    "title": "Cloudinary",
+    "url": "https://cloudinary.com",
+    "description": "A cloud based image management service that provides simple image upload, storage, manipulation.",
+    "tags": [
+      "cloud",
+      "service",
+      "content management",
+      "image",
+      "storage"
+    ]
+  },
+  {
+    "id": "736377db-3f20-44f2-ae3a-8fbf6ee0eb56",
+    "date": "2020-01-17",
+    "title": "Now",
+    "url": "https://zeit.co/now",
+    "description": "realtime deployment for node applications and static sites. Supports aliases and custom domains. Everything done in a CLI.",
+    "tags": [
+      "cloud",
+      "hosting",
+      "deployment",
+      "devops",
+      "paas"
+    ]
+  },
+  {
+    "id": "8c18fa17-0952-4dbb-b1fd-186d62597ba5",
+    "date": "2020-01-17",
+    "title": "Netlify",
+    "url": "https://www.netlify.com",
+    "description": "Similar to Now.",
+    "tags": [
+      "cloud",
+      "hosting",
+      "deployment",
+      "devops",
+      "paas"
+    ]
+  },
+  {
+    "id": "c6a3eaee-806e-46f4-b2aa-07b2537380ea",
+    "date": "2020-01-17",
+    "title": "Firebase",
+    "url": "https://firebase.google.com",
+    "description": "This is a Google service for supporting mobile applications. This is a rich service with many options for storage and notifications and many other services.",
+    "tags": [
+      "google",
+      "cloud",
+      "hosting",
+      "storage",
+      "deployment",
+      "devops"
+    ]
   }
 ]
