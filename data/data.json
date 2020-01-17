@@ -348,5 +348,17 @@
       "wireframe",
       "diagrams"
     ]
+  },
+  {
+    "id": "b479ec3f-1d14-4c3a-84cc-2e7996b0d551",
+    "date": "2020-01-16",
+    "title": "Paypal Downshift",
+    "url": "https://github.com/paypal/downshift",
+    "description": "Primitives to build simple, flexible, WAI-ARIA compliant React autocomplete/dropdown/select/combobox components. This [blogpost](https://blog.kentcdodds.com/introducing-downshift-for-react-b1de3fca0817) explains it well.",
+    "tags": [
+      "tutorial",
+      "react",
+      "library"
+    ]
   }
 ]
