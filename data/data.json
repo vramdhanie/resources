@@ -928,5 +928,18 @@
       "weather",
       "flood"
     ]
+  },
+  {
+    "id": "ea5a7269-14b3-4d38-9ab7-bbb932ac5a58",
+    "date": "2020-01-17",
+    "title": "Complete Guide to UseEffect",
+    "url": "https://overreacted.io/a-complete-guide-to-useeffect/",
+    "description": "Great article from Dan Abramov - covers several concepts around useEffect",
+    "tags": [
+      "useEffect",
+      "react",
+      "article",
+      "hooks"
+    ]
   }
 ]
