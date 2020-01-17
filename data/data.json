@@ -146,5 +146,43 @@
       "statistics",
       "book"
     ]
+  },
+  {
+    "id": "4ed4e85f-32de-4eea-87b5-f4848809248e",
+    "date": "2020-01-16",
+    "title": "Kaggle",
+    "url": "https://www.kaggle.com",
+    "description": "More than just Data sets. You have hosted jupyter notebooks and lots of examples of data analysis.",
+    "tags": [
+      "data",
+      "jupyter",
+      "machine learning",
+      "notebook"
+    ]
+  },
+  {
+    "id": "4077bbd6-eda8-4d75-81ce-6382f3dc0f79",
+    "date": "2020-01-16",
+    "title": "Google Dataset Search",
+    "url": "https://toolbox.google.com/datasetsearch",
+    "description": "Fairly new service by Google for searching datasets for a wide variety of topics",
+    "tags": [
+      "google",
+      "data",
+      "api"
+    ]
+  },
+  {
+    "id": "e643c390-4bf8-4b52-b1ba-57d7cbbb56f5",
+    "date": "2020-01-16",
+    "title": "PDS",
+    "url": "https://pds.jpl.nasa.gov/datasearch/data-search/",
+    "description": "NASA's Planetary Data Service",
+    "tags": [
+      "data",
+      "api",
+      "space",
+      "nasa"
+    ]
   }
 ]
