@@ -360,5 +360,28 @@
       "react",
       "library"
     ]
+  },
+  {
+    "id": "7f00b05c-c212-4971-9e2d-4d1000c5909c",
+    "date": "2020-01-16",
+    "title": "GreenSock",
+    "url": "https://greensock.com",
+    "description": "From the official site:\\n\\n> Ultra high-performance, professional-grade animation for the modern web",
+    "tags": [
+      "animation",
+      "fewd"
+    ]
+  },
+  {
+    "id": "3335dbb9-28a1-4889-a204-fc5cfa6baa9f",
+    "date": "2020-01-16",
+    "title": "Crouton",
+    "url": "https://github.com/dnschneid/crouton",
+    "description": "From the README:\\n\\n>crouton is a set of scripts that bundle up into an easy-to-use,  Chromium OS-centric chroot generator. \\n Basically a way to run native linux on a chromebook.",
+    "tags": [
+      "operating systems",
+      "chromium",
+      "linux"
+    ]
   }
 ]
