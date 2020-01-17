@@ -677,5 +677,27 @@
       "rest",
       "api"
     ]
+  },
+  {
+    "id": "0b0bc12a-7730-43ca-b66c-e27909046e71",
+    "date": "2020-01-17",
+    "title": "Data Framed",
+    "url": "https://www.datacamp.com/community/podcast",
+    "description": "Datacamp podcast on all things Data Science",
+    "tags": [
+      "data science",
+      "podcast"
+    ]
+  },
+  {
+    "id": "33404f20-7efc-49c8-857d-b40b5f747259",
+    "date": "2020-01-17",
+    "title": "Functional Geekery",
+    "url": "https://www.functionalgeekery.com",
+    "description": "A podcast on functional programming",
+    "tags": [
+      "podcast",
+      "functional programming"
+    ]
   }
 ]
