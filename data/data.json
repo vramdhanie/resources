@@ -756,5 +756,34 @@
       "deployment",
       "devops"
     ]
+  },
+  {
+    "id": "fb9e11c2-5a63-4eca-b3da-33ccaa6a38d4",
+    "date": "2020-01-17",
+    "title": "Tech.io",
+    "url": "https://tech.io",
+    "description": "A knowledge sharing platform. Many great explanations and tutorials to be found here.",
+    "tags": [
+      "tutorial",
+      "development",
+      "learning"
+    ]
+  },
+  {
+    "id": "6be41931-f56d-4047-9a31-896a9b7d1e54",
+    "date": "2020-01-17",
+    "title": "Scrimba",
+    "url": "https://scrimba.com",
+    "description": "Different way to make interactive video content. Many good courses on web development",
+    "tags": [
+      "courses",
+      "video",
+      "interactive",
+      "learning",
+      "tutorial",
+      "html",
+      "css",
+      "javascript"
+    ]
   }
 ]
