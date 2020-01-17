@@ -209,5 +209,33 @@
       "science",
       "machine learning"
     ]
+  },
+  {
+    "id": "eada23b3-1af1-4c7b-a4e7-3fc6159203cd",
+    "date": "2020-01-16",
+    "title": "Tensorflow",
+    "url": "https://www.tensorflow.org/",
+    "description": "An open source library for building machine learning systems. The [Getting Started](https://www.tensorflow.org/get_started/) tutorial is very good.",
+    "tags": [
+      "tensorflow",
+      "google",
+      "machine learning",
+      "deep learning",
+      "neural networks",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "60d72faa-a3fb-43cd-8845-9f3f665a4a8a",
+    "date": "2020-01-16",
+    "title": "Intel Distribution for Python",
+    "url": "https://software.intel.com/en-us/distribution-for-python",
+    "description": "Highly optimized library for Machine Learning",
+    "tags": [
+      "python",
+      "intel",
+      "machine learning",
+      "programming"
+    ]
   }
 ]
