@@ -184,5 +184,30 @@
       "space",
       "nasa"
     ]
+  },
+  {
+    "id": "a6db10b1-bc37-4d39-b4c7-c50ac00a2388",
+    "date": "2020-01-16",
+    "title": "Evaluating Clustering Algorithms",
+    "url": "http://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte/theses/phd/algorithm.pdf",
+    "description": "Survey of clustering evaluation techniques with good summary of what evaluation means.",
+    "tags": [
+      "paper",
+      "algorithms",
+      "science",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "abc43785-d4ef-494f-8acd-1ba7dc47f9b8",
+    "date": "2020-01-16",
+    "title": "Knowledge Graph Refinement",
+    "url": "http://www.semantic-web-journal.net/system/files/swj1167.pdf",
+    "description": "A Survey of Approaches and Evaluation Methods",
+    "tags": [
+      "paper",
+      "science",
+      "machine learning"
+    ]
   }
 ]
