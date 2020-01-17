@@ -3,13 +3,14 @@ import styled from "styled-components";
 import Card from "./card";
 import CardHeader from "./cardHeader";
 import Tag from "./tag";
+import ReactMarkdown from "react-markdown";
 
 const Bookmark = ({ className, title, description, url, tags }) => {
 	return (
 		<Card className={className}>
 			<CardHeader title={title} url={url} />
 			<div className="content">
-				<p>{description}</p>
+				<ReactMarkdown source={description} />
 			</div>
 			<div className="tags">
 				{tags.map(tag => (
