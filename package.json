@@ -17,6 +17,7 @@
 	"dependencies": {
 		"import-jsx": "^3.0.0",
 		"ink": "^2.5.0",
+		"ink-multi-select": "^1.1.0",
 		"meow": "^5.0.0",
 		"moment": "^2.24.0",
 		"prop-types": "^15.7.2",
