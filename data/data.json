@@ -785,5 +785,136 @@
       "css",
       "javascript"
     ]
+  },
+  {
+    "id": "ce2fabbb-3609-4143-be21-7bcedc435a99",
+    "date": "2020-01-17",
+    "title": "APIs Without Authentication",
+    "url": "https://shkspr.mobi/blog/2016/05/easy-apis-without-authentication",
+    "description": "Slightly outdated list of APIs that do not need authentication. But still a few good ones there.",
+    "tags": [
+      "api",
+      "list",
+      "rest"
+    ]
+  },
+  {
+    "id": "d473ec77-e735-494c-9544-a40d6e2c2d9d",
+    "date": "2020-01-17",
+    "title": "Any API",
+    "url": "https://any-api.com",
+    "description": "A good list of public APIs. Seems to be well maintained.",
+    "tags": [
+      "api",
+      "list",
+      "rest"
+    ]
+  },
+  {
+    "id": "c8058f27-4a86-40d3-8d18-4db67ab79a2b",
+    "date": "2020-01-17",
+    "title": "Create npm package",
+    "url": "https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78",
+    "description": "Simple to follow tutorial on creating a npm package.",
+    "tags": [
+      "tutorial",
+      "npm",
+      "package"
+    ]
+  },
+  {
+    "id": "b0e51d8b-0778-4ffc-b94a-1cebaee5c622",
+    "date": "2020-01-17",
+    "title": "Open Broadcast Software",
+    "url": "https://obsproject.com",
+    "description": "For creating streams say on Youtube.",
+    "tags": [
+      "broadcast",
+      "stream",
+      "youtube",
+      "video"
+    ]
+  },
+  {
+    "id": "cf3254e9-fd58-4513-a7d6-6ccc438211a6",
+    "date": "2020-01-17",
+    "title": "Koji",
+    "url": "https://withkoji.com/create",
+    "description": "System for remixing and creating games online. There is a job posting on Stack overflow paying $500 per game.",
+    "tags": [
+      "game",
+      "programming",
+      "job"
+    ]
+  },
+  {
+    "id": "31cdeef6-1125-444e-9ded-4f73babdf22b",
+    "date": "2020-01-17",
+    "title": "Spectrum Chat",
+    "url": "https://spectrum.chat/about",
+    "description": "Community chat.",
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "6c890217-5a7d-4092-9127-0f2ae73770ee",
+    "date": "2020-01-17",
+    "title": "xState",
+    "url": "https://xstate.js.org",
+    "description": "Finite state machines for JS programs",
+    "tags": [
+      "fsm",
+      "state",
+      "javascript",
+      "library",
+      "programming"
+    ]
+  },
+  {
+    "id": "bf5d0348-0325-47cf-a0e9-7b4d630da7be",
+    "date": "2020-01-17",
+    "title": "Oclif",
+    "url": "https://oclif.io",
+    "description": "Open source CLI generator with great features.",
+    "tags": [
+      "cli",
+      "generator",
+      "starter"
+    ]
+  },
+  {
+    "id": "07fb688c-2140-46ec-81e8-4adac5e67a13",
+    "date": "2020-01-17",
+    "title": "Yoga",
+    "url": "https://yogalayout.com",
+    "description": "Flexible layouts - an open source layout engine. Used by React Native and React PDF for instance.",
+    "tags": [
+      "react",
+      "layout"
+    ]
+  },
+  {
+    "id": "b1464f51-d7b3-4ec1-8000-bc9100f1f304",
+    "date": "2020-01-17",
+    "title": "NoCode",
+    "url": "https://www.nocode.tech",
+    "description": "Curated list of nocode sites.",
+    "tags": [
+      "nocode",
+      "list",
+      "design"
+    ]
+  },
+  {
+    "id": "c59dc686-5d13-4a36-82bc-53c3bf5390d9",
+    "date": "2020-01-17",
+    "title": "Excalidraw",
+    "url": "https://www.excalidraw.com",
+    "description": "Whiteboard that is a work in progress but so far excellent.",
+    "tags": [
+      "whiteboard",
+      "online"
+    ]
   }
 ]
