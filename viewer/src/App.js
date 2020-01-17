@@ -3,6 +3,7 @@ import styled from "styled-components";
 import Bookmark from "./bookmark";
 import FilterTag from "./filterTag";
 import { MdClose } from "react-icons/md";
+import { FaBackspace } from "react-icons/fa";
 
 function App({ className }) {
 	const [bookmarks, setBookmarks] = useState([]);
@@ -22,7 +23,9 @@ function App({ className }) {
 	};
 
 	const addFilter = filter => {
-		setFilters([...filters, filter]);
+		if (!filters.includes(filter)) {
+			setFilters([...filters, filter]);
+		}
 	};
 
 	const removeFilter = filter => {
@@ -73,6 +76,10 @@ function App({ className }) {
 										/>
 									</div>
 								))}
+								<FaBackspace
+									className="backspace"
+									onClick={() => setFilters([])}
+								/>
 							</div>
 						) : (
 							"No Filters"
@@ -171,6 +178,16 @@ export default styled(App)`
 
 	.count {
 		text-align: right;
+	}
+
+	.backspace {
+		cursor: pointer;
+		margin-left: 3px;
+		transition: all 1s linear;
+	}
+	.backspace:hover {
+		color: red;
+		transform: translateY(-1);
 	}
 
 	@media screen and (min-width: 600px) {
