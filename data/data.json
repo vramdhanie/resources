@@ -614,5 +614,68 @@
       "query",
       "database"
     ]
+  },
+  {
+    "id": "5fcf2413-e503-4fcd-a322-60921bb83171",
+    "date": "2020-01-17",
+    "title": "Postman",
+    "url": "https://www.getpostman.com",
+    "description": "For testing APIs",
+    "tags": [
+      "api",
+      "testing",
+      "postman"
+    ]
+  },
+  {
+    "id": "36e964f2-b01a-4761-baef-92628c39b5d2",
+    "date": "2020-01-17",
+    "title": "Postman API",
+    "url": "https://www.getpostman.com/api-network",
+    "description": "List of APIs",
+    "tags": [
+      "postman",
+      "api"
+    ]
+  },
+  {
+    "id": "e6ed1407-0ad9-4eff-979e-a639473b73d3",
+    "date": "2020-01-17",
+    "title": "Atlas",
+    "url": "https://www.mongodb.com/cloud/atlas",
+    "description": "Database as a service for MongoDB, free tier available - has since consumed MongoDB",
+    "tags": [
+      "database",
+      "mongo",
+      "nosql",
+      "cloud",
+      "service"
+    ]
+  },
+  {
+    "id": "d2208d5c-85f0-4065-87df-718047499f81",
+    "date": "2020-01-17",
+    "title": "Feathers",
+    "url": "https://feathersjs.com",
+    "description": "<blockquote>An open source REST and realtime API layer for modern applications.</blockquote> Excellent framework built on express",
+    "tags": [
+      "websockets",
+      "rest",
+      "api",
+      "real time",
+      "javascript"
+    ]
+  },
+  {
+    "id": "baed24e3-58c3-4634-92b2-17af0d9f2077",
+    "date": "2020-01-17",
+    "title": "REST API Tutorial",
+    "url": "https://restfulapi.net",
+    "description": "Good enough tutorial on RESTful APIs",
+    "tags": [
+      "tutorial",
+      "rest",
+      "api"
+    ]
   }
 ]
