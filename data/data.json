@@ -1,82 +1,150 @@
 [
-	{
-		"id": "bf372e85-5a3d-4bad-b590-718b9cdd06bc",
-		"date": "2020-01-16",
-		"title": "React",
-		"url": "https://reactjs.org",
-		"description": "A JavaScript library for building user interfaces",
-		"tags": ["library", "javascript", "react"]
-	},
-	{
-		"id": "f38dbff6-9143-4deb-98d0-58da94a9ad22",
-		"date": "2020-01-16",
-		"title": "React Native",
-		"url": "https://facebook.github.io/react-native",
-		"description": "Create native apps for Android and iOS using React",
-		"tags": ["mobile", "react", "javascript", "android", "ios"]
-	},
-	{
-		"id": "5da2707d-5a0f-44ec-bf4a-43e510b6ce63",
-		"date": "2020-01-16",
-		"title": "Ink",
-		"url": "https://github.com/vadimdemedes/ink",
-		"description": "Using React to build CLI views",
-		"tags": ["react", "cli", "library", "ui", "renderer"]
-	},
-	{
-		"id": "5b20a86a-19b3-41be-87cb-be059c71a102",
-		"date": "2020-01-16",
-		"title": "React PDF",
-		"url": "https://react-pdf.org",
-		"description": "Render PDF documents to file or to the web with React",
-		"tags": ["react", "renderer", "pdf"]
-	},
-	{
-		"id": "074350da-06e0-40fb-830f-713c54110e81",
-		"date": "2020-01-16",
-		"title": "Kyt",
-		"url": "https://github.com/nytimes/kyt",
-		"description": "The New York Times React Starter",
-		"tags": ["react", "starter"]
-	},
-	{
-		"id": "14b2972a-bc47-4d75-8d12-8a66182cd9e6",
-		"date": "2020-01-16",
-		"title": "React NodeGUI",
-		"url": "https://react.nodegui.org",
-		"description": "Build native GUI apps using React",
-		"tags": ["react", "node", "ui"]
-	},
-	{
-		"id": "9997ed09-4b30-4bcb-add0-3905fcf654e6",
-		"date": "2020-01-16",
-		"title": "Pastel",
-		"url": "https://github.com/vadimdemedes/pastel",
-		"description": "Built on top of ink",
-		"tags": ["react ui cli colour"]
-	},
-	{
-		"id": "c7ac0614-c846-41e8-ad74-e96aa1210c08",
-		"date": "2020-01-16",
-		"title": "React Spring",
-		"url": "https://www.react-spring.io",
-		"description": "Simple, animation, primitives",
-		"tags": ["react", "spring", "animation"]
-	},
-	{
-		"id": "d008fdb5-0a47-44cb-a9eb-080e5e99f06a",
-		"date": "2020-01-16",
-		"title": "arXiv",
-		"url": "https://arxiv.org",
-		"description": "From the Cornell University Library - Open access to 1,477,285 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics",
-		"tags": ["research", "science", "papers"]
-	},
-	{
-		"id": "ed1112d2-3d65-4ccf-a1fe-5f9c626b82d5",
-		"date": "2020-01-16",
-		"title": "Internet Archive",
-		"url": "https://archive.org",
-		"description": "An archive of millions of digital artifacts.",
-		"tags": ["research", "papers", "science"]
-	}
+  {
+    "id": "bf372e85-5a3d-4bad-b590-718b9cdd06bc",
+    "date": "2020-01-16",
+    "title": "React",
+    "url": "https://reactjs.org",
+    "description": "A JavaScript library for building user interfaces",
+    "tags": [
+      "library",
+      "javascript",
+      "react"
+    ]
+  },
+  {
+    "id": "f38dbff6-9143-4deb-98d0-58da94a9ad22",
+    "date": "2020-01-16",
+    "title": "React Native",
+    "url": "https://facebook.github.io/react-native",
+    "description": "Create native apps for Android and iOS using React",
+    "tags": [
+      "mobile",
+      "react",
+      "javascript",
+      "android",
+      "ios"
+    ]
+  },
+  {
+    "id": "5da2707d-5a0f-44ec-bf4a-43e510b6ce63",
+    "date": "2020-01-16",
+    "title": "Ink",
+    "url": "https://github.com/vadimdemedes/ink",
+    "description": "Using React to build CLI views",
+    "tags": [
+      "react",
+      "cli",
+      "library",
+      "ui",
+      "renderer"
+    ]
+  },
+  {
+    "id": "5b20a86a-19b3-41be-87cb-be059c71a102",
+    "date": "2020-01-16",
+    "title": "React PDF",
+    "url": "https://react-pdf.org",
+    "description": "Render PDF documents to file or to the web with React",
+    "tags": [
+      "react",
+      "renderer",
+      "pdf"
+    ]
+  },
+  {
+    "id": "074350da-06e0-40fb-830f-713c54110e81",
+    "date": "2020-01-16",
+    "title": "Kyt",
+    "url": "https://github.com/nytimes/kyt",
+    "description": "The New York Times React Starter",
+    "tags": [
+      "react",
+      "starter"
+    ]
+  },
+  {
+    "id": "14b2972a-bc47-4d75-8d12-8a66182cd9e6",
+    "date": "2020-01-16",
+    "title": "React NodeGUI",
+    "url": "https://react.nodegui.org",
+    "description": "Build native GUI apps using React",
+    "tags": [
+      "react",
+      "node",
+      "ui"
+    ]
+  },
+  {
+    "id": "9997ed09-4b30-4bcb-add0-3905fcf654e6",
+    "date": "2020-01-16",
+    "title": "Pastel",
+    "url": "https://github.com/vadimdemedes/pastel",
+    "description": "Built on top of ink",
+    "tags": [
+      "react ui cli colour"
+    ]
+  },
+  {
+    "id": "c7ac0614-c846-41e8-ad74-e96aa1210c08",
+    "date": "2020-01-16",
+    "title": "React Spring",
+    "url": "https://www.react-spring.io",
+    "description": "Simple, animation, primitives",
+    "tags": [
+      "react",
+      "spring",
+      "animation"
+    ]
+  },
+  {
+    "id": "d008fdb5-0a47-44cb-a9eb-080e5e99f06a",
+    "date": "2020-01-16",
+    "title": "arXiv",
+    "url": "https://arxiv.org",
+    "description": "From the Cornell University Library - Open access to 1,477,285 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics",
+    "tags": [
+      "research",
+      "science",
+      "papers"
+    ]
+  },
+  {
+    "id": "ed1112d2-3d65-4ccf-a1fe-5f9c626b82d5",
+    "date": "2020-01-16",
+    "title": "Internet Archive",
+    "url": "https://archive.org",
+    "description": "An archive of millions of digital artifacts.",
+    "tags": [
+      "research",
+      "papers",
+      "science"
+    ]
+  },
+  {
+    "id": "81a3d691-8f26-4e24-9e92-3480abd8b25f",
+    "date": "2020-01-16",
+    "title": "Introduction to Statistical Learning",
+    "url": "http://www-bcf.usc.edu/~gareth/ISL",
+    "description": "From their website --> This book provides an introduction to statistical learning methods.    It is aimed for upper level undergraduate students, masters students and Ph.D.    students in the non-mathematical sciences. The book also contains a number of R  labs with detailed explanations on how to implement the various methods in real   life settings, and should be a valuable resource for a practicing data scientist.",
+    "tags": [
+      "statistics",
+      "machine learning",
+      "R",
+      "data science",
+      "logic"
+    ]
+  },
+  {
+    "id": "90e5b216-a30c-406e-a0aa-20e9ca486fc6",
+    "date": "2020-01-16",
+    "title": "SticiGui",
+    "url": "https://www.stat.berkeley.edu/~stark/SticiGui/index.htm",
+    "description": "From the University of California, Berkeley --> This text was written for a terminal introductory class in Statistics suitable   students in Business, Communications, Economics, Psychology, Social Science,   or liberal arts; that is, this is the first and last class in Statistics for   most students who take it. It also covers logic and reasoning at a level suitable   for a general education course.",
+    "tags": [
+      "data science",
+      "machine learning",
+      "statistics",
+      "book"
+    ]
+  }
 ]
