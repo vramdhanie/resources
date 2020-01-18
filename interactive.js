@@ -4,23 +4,23 @@ const { Color, Box } = require("ink");
 const MultiSelect = require("ink-multi-select");
 
 const Interactive = () => {
-	const [page, setPage] = useState(4);
+	const [page, setPage] = useState(0);
 	const mainMenu = [
 		{
 			label: "Add Bookmark",
-			value: 1
+			value: "1"
 		},
 		{
 			label: "Edit Bookmark",
-			value: 2
+			value: "2"
 		},
 		{
 			label: "Delete Bookmark",
-			value: 3
+			value: "3"
 		},
 		{
 			label: "Exit",
-			value: 4
+			value: "4"
 		}
 	];
 

@@ -1,3 +1,3 @@
-const DATA_FILE = "data/data_test.json";
+const DATA_FILE = "data/data.json";
 
 module.exports = { DATA_FILE };
