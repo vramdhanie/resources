@@ -970,5 +970,18 @@
       "compiler",
       "article"
     ]
+  },
+  {
+    "id": "9b2b247e-6850-4dcf-aa97-95adc8eb198c",
+    "date": "2020-01-18",
+    "title": "Favicon Generator",
+    "url": "https://www.favicon-generator.org/",
+    "description": "A free service that generates the favicon from an image as well as a manifest file.",
+    "tags": [
+      "favicon",
+      "generator",
+      "nocode",
+      "design"
+    ]
   }
 ]
