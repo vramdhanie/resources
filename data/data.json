@@ -997,5 +997,17 @@
       "aws",
       "lambda"
     ]
+  },
+  {
+    "id": "c63abdaa-e975-4d0e-9d3d-675dad8f3645",
+    "date": "2020-01-18",
+    "title": "The new React architecture",
+    "url": "https://formidable.com/blog/2019/react-codegen-part-1/",
+    "description": "In 2018 React announced a new architecture. This 4 part tutorial gives a detailed explanation of this new architecture",
+    "tags": [
+      "react",
+      "tutorial",
+      "architecture"
+    ]
   }
 ]
