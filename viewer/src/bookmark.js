@@ -10,7 +10,11 @@ const Bookmark = ({ className, title, description, url, tags }) => {
 		<Card className={className}>
 			<CardHeader title={title} url={url} />
 			<div className="content">
-				<ReactMarkdown source={description} escapeHtml={false} />
+				<ReactMarkdown
+					source={description}
+					escapeHtml={false}
+					renderers={{ paragraph: props => <div {...props} /> }}
+				/>
 			</div>
 			<div className="tags">
 				{tags.map(tag => (
