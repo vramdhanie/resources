@@ -4,6 +4,7 @@ import Bookmark from "./bookmark";
 import FilterTag from "./filterTag";
 import { MdClose } from "react-icons/md";
 import { FaBackspace } from "react-icons/fa";
+import logo from "./images/logo.png";
 
 function App({ className }) {
 	const [bookmarks, setBookmarks] = useState([]);
@@ -59,7 +60,10 @@ function App({ className }) {
 	return (
 		<div className={className}>
 			<header>
-				<h1>Bookmarks</h1>
+				<div className="site_name">
+					<img src={logo} alt="Resources Logo" />
+					<h1>Bookmarks</h1>
+				</div>
 				<div className="stats">
 					<div className="count">
 						Showing {filtered.length} of {bookmarks.length}
@@ -188,6 +192,10 @@ export default styled(App)`
 	.backspace:hover {
 		color: red;
 		transform: translateY(-1);
+	}
+
+	.site_name {
+		display: flex;
 	}
 
 	@media screen and (min-width: 600px) {
