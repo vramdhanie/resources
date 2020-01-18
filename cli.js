@@ -79,7 +79,7 @@ if (options.length < 3) {
 	};
 
 	if (options.length >= 4) {
-		row.tags = options[3].split(",").map(t => t.trim());
+		row.tags = options[3].split(",").map(t => t.trim().toLowerCase());
 	}
 
 	saveData(row);
