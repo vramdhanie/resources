@@ -983,5 +983,19 @@
       "nocode",
       "design"
     ]
+  },
+  {
+    "id": "b339f404-3d80-45ba-9375-c15349886e9e",
+    "date": "2020-01-18",
+    "title": "AWS Lambda Intro",
+    "url": "https://egghead.io/playlists/learn-aws-lambda-from-scratch-d29d",
+    "description": "An Egghead instructor created a quick lesson on working with AWS lambda",
+    "tags": [
+      "video",
+      "course",
+      "tutorial",
+      "aws",
+      "lambda"
+    ]
   }
 ]
