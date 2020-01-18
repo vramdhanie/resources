@@ -941,5 +941,18 @@
       "article",
       "hooks"
     ]
+  },
+  {
+    "id": "f8fce0f2-190b-4268-b139-4c50668904ff",
+    "date": "2020-01-17",
+    "title": "Auto Changelog",
+    "url": "https://www.npmjs.com/package/auto-changelog",
+    "description": "Command line tool for generating a changelog from git tags and commit history",
+    "tags": [
+      "npm",
+      "package",
+      "changelog",
+      "devops"
+    ]
   }
 ]
