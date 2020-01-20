@@ -1009,5 +1009,19 @@
       "tutorial",
       "architecture"
     ]
+  },
+  {
+    "id": "e3e8a47b-286b-487b-a23b-2c2413344f55",
+    "date": "2020-01-20",
+    "title": "Compose,Hooks,RenderProps",
+    "url": "https://medium.com/simply/comparison-hocs-vs-render-props-vs-hooks-55f9ffcd5dc6",
+    "description": "Good article defining these three approaches.",
+    "tags": [
+      "react",
+      "article",
+      "hooks",
+      "compose",
+      "render props"
+    ]
   }
 ]
