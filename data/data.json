@@ -1023,5 +1023,17 @@
       "compose",
       "render props"
     ]
+  },
+  {
+    "id": "f54ea64a-5363-4200-a185-59a5c40bf9ca",
+    "date": "2020-01-23",
+    "title": "30 Agency Sites",
+    "url": "https://getflywheel.com/layout/30-awesome-agency-websites/",
+    "description": "A currated list of 30 web agency websites. Some are fine, some are annoying to use.",
+    "tags": [
+      "article",
+      "design",
+      "websites"
+    ]
   }
 ]
