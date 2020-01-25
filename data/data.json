@@ -1035,5 +1035,18 @@
       "design",
       "websites"
     ]
+  },
+  {
+    "id": "d9c086c3-0f8f-4d7e-85d0-c1a7b48eaa86",
+    "date": "2020-01-24",
+    "title": "Mirage",
+    "url": "https://miragejs.com/",
+    "description": "# A Mock API Server. <br> From the website:<br><blockquote>Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.</blockquote>",
+    "tags": [
+      "api",
+      "mock",
+      "server",
+      "react"
+    ]
   }
 ]
