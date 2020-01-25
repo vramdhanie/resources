@@ -2,7 +2,14 @@ import React from "react";
 import styled from "styled-components";
 import { FaCheck } from "react-icons/fa";
 
-const FilterTag = ({ className, name, selected, addFilter, removeFilter }) => {
+const FilterTag = ({
+	className,
+	name,
+	count,
+	selected,
+	addFilter,
+	removeFilter
+}) => {
 	const removeHandler = e => {
 		e.stopPropagation();
 		removeFilter(name);
@@ -10,6 +17,7 @@ const FilterTag = ({ className, name, selected, addFilter, removeFilter }) => {
 
 	return (
 		<div className={className} onClick={() => addFilter(name)}>
+			<div className="count">{count}</div>
 			{name}
 			{selected ? <FaCheck className="check" onClick={removeHandler} /> : ""}
 		</div>
@@ -56,5 +64,15 @@ export default styled(FilterTag)`
 	.check:hover {
 		color: white;
 		background: green;
+	}
+
+	.count {
+		background: #0034ab;
+		border-radius: 50%;
+		color: white;
+		padding: 1px;
+		margin-right: 2px;
+		width: 16px;
+		text-align: center !important;
 	}
 `;

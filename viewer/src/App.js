@@ -13,13 +13,27 @@ function App({ className }) {
 	const [filters, setFilters] = useState([]);
 
 	const getTags = data => {
+		// setTags(
+		// 	Object.keys(
+		// 		data.reduce((acc, curr) => {
+		// 			curr.tags.forEach(t => (acc[t] = t));
+		// 			return acc;
+		// 		}, {})
+		// 	)
+		// );
 		setTags(
-			Object.keys(
-				data.reduce((acc, curr) => {
-					curr.tags.forEach(t => (acc[t] = t));
-					return acc;
-				}, {})
-			)
+			Object.entries(
+				data
+					.flatMap(bookmark => bookmark.tags)
+					.reduce((acc, curr) => {
+						if (acc[curr]) {
+							acc[curr] = acc[curr] + 1;
+						} else {
+							acc[curr] = 1;
+						}
+						return acc;
+					}, {})
+			).sort((a, b) => b[1] - a[1])
 		);
 	};
 
@@ -48,6 +62,7 @@ function App({ className }) {
 				setError(null);
 			} catch (e) {
 				setError("Could not fetch data");
+				console.log(e);
 			}
 		})();
 	}, []);
@@ -72,7 +87,7 @@ function App({ className }) {
 						{filters.length ? (
 							<div className="filter-list">
 								{filters.map(f => (
-									<div className="filter">
+									<div className="filter" key={f}>
 										{f}{" "}
 										<MdClose
 											className="closeBtn"
@@ -92,11 +107,12 @@ function App({ className }) {
 				</div>
 			</header>
 			<section className="tags">
-				{tags.map(tag => (
+				{tags.map(([name, count]) => (
 					<FilterTag
-						name={tag}
-						selected={filters.includes(tag)}
-						key={tag}
+						name={name}
+						count={count}
+						selected={filters.includes(name)}
+						key={name}
 						addFilter={addFilter}
 						removeFilter={removeFilter}
 					/>
