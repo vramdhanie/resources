@@ -1061,5 +1061,19 @@
       "search",
       "business"
     ]
+  },
+  {
+    "id": "1ef20a26-8e13-43b0-8b9f-d6b433a9fab6",
+    "date": "2020-02-01",
+    "title": "Kent C Dodds",
+    "url": "https://kentcdodds.com/blog/",
+    "description": "Kent C Dodds blog",
+    "tags": [
+      "react",
+      "blog",
+      "articles",
+      "podcast",
+      "javascript"
+    ]
   }
 ]
