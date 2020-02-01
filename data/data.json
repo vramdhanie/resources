@@ -1115,5 +1115,19 @@
       "javascript",
       "beginner"
     ]
+  },
+  {
+    "id": "92be1875-490f-4d91-8fa2-22d751ee0b4f",
+    "date": "2020-02-01",
+    "title": "How to set up GitHub integration and automated deploys to Firebase with Google Cloud Build",
+    "url": "https://hackernoon.com/how-to-set-up-github-integration-and-automated-deploys-to-firebase-with-google-cloud-build-54696dc12991",
+    "description": "Deploying static files to Firebase hosting is pretty easy with the Firebase CLI, but setting up reliable automatic deploys can save some headaches as your team or project grows.",
+    "tags": [
+      "firebase",
+      "cloud",
+      "google",
+      "devops",
+      "cloud build"
+    ]
   }
 ]
