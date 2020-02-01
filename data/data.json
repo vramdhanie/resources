@@ -1103,5 +1103,17 @@
       "ci/cd",
       "devops"
     ]
+  },
+  {
+    "id": "bd687189-c860-4f95-b26b-3f54802142ce",
+    "date": "2020-02-01",
+    "title": "Wes Bos Courses",
+    "url": "https://courses.wesbos.com/account",
+    "description": "Some free courses by Wes Bos",
+    "tags": [
+      "courses",
+      "javascript",
+      "beginner"
+    ]
   }
 ]
