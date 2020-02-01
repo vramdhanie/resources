@@ -1088,5 +1088,20 @@
       "book",
       "online"
     ]
+  },
+  {
+    "id": "6c40a4b5-57b3-4408-aed5-d395a6309369",
+    "date": "2020-02-01",
+    "title": "Firebase CF CI/CD with Cloud Build",
+    "url": "https://thecloudfunction.com/blog/firebase-cloud-functions-continuous-deploying-with-cloud-build/",
+    "description": "Great article on using Google Cloud Build and Firebase. Gives a general picture that hopefully helps with the specific setups when needed.",
+    "tags": [
+      "firebase",
+      "google",
+      "cloud",
+      "build",
+      "ci/cd",
+      "devops"
+    ]
   }
 ]
