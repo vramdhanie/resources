@@ -1075,5 +1075,18 @@
       "podcast",
       "javascript"
     ]
+  },
+  {
+    "id": "d4e398f3-1a25-4793-812f-4c07d94e195b",
+    "date": "2020-02-01",
+    "title": "JavaScript: The Core",
+    "url": "http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/",
+    "description": "AN online book by Dmitry Soshnikov",
+    "tags": [
+      "javascript",
+      "programming",
+      "book",
+      "online"
+    ]
   }
 ]
