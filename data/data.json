@@ -1129,5 +1129,17 @@
       "devops",
       "cloud build"
     ]
+  },
+  {
+    "id": "5ca0e09c-76d0-4731-972c-335364d82acc",
+    "date": "2020-02-07",
+    "title": "Cypress.io",
+    "url": "https://www.cypress.io/",
+    "description": "An open source browser based testing tool",
+    "tags": [
+      "test",
+      "browser",
+      "tool"
+    ]
   }
 ]
