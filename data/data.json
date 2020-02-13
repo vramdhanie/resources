@@ -1179,5 +1179,18 @@
       "microsfot",
       "vscode"
     ]
+  },
+  {
+    "id": "cb905fea-0419-4200-9a0d-3c15c701848c",
+    "date": "2020-02-13",
+    "title": "The GitHub CLI",
+    "url": "https://cli.github.com/",
+    "description": "A new CLI from GitHub that allows creating PRs from the command line.",
+    "tags": [
+      "git",
+      "github",
+      "cli",
+      "tool"
+    ]
   }
 ]
