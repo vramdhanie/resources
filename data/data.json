@@ -1153,5 +1153,18 @@
       "design",
       "colour"
     ]
+  },
+  {
+    "id": "152d4e48-f130-4766-9ae6-791976aecf90",
+    "date": "2020-02-13",
+    "title": "Atlassian Team Playbook",
+    "url": "https://www.atlassian.com/team-playbook/plays",
+    "description": "Excellent team building advice. Definitely something to follow as the software team is built and grown.",
+    "tags": [
+      "team",
+      "agile",
+      "devops",
+      "manage"
+    ]
   }
 ]
