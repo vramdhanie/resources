@@ -1141,5 +1141,17 @@
       "browser",
       "tool"
     ]
+  },
+  {
+    "id": "6115d693-52ec-4fe1-9820-0d99bc6d06be",
+    "date": "2020-02-12",
+    "title": "Neumorphism",
+    "url": "https://neumorphism.io/#00a3f0",
+    "description": "Generate soft CSS shadows and colours",
+    "tags": [
+      "css",
+      "design",
+      "colour"
+    ]
   }
 ]
