@@ -1166,5 +1166,18 @@
       "devops",
       "manage"
     ]
+  },
+  {
+    "id": "3a7289bc-879a-4dd3-9ef7-42a5210abfe3",
+    "date": "2020-02-13",
+    "title": "Monaco Editor",
+    "url": "https://microsoft.github.io/monaco-editor/index.html",
+    "description": "This fully open source editor from Microsoft works in the browser and is the editor that powers VSCode. The website has a playground with great examples of using this editor.",
+    "tags": [
+      "editor",
+      "programming",
+      "microsfot",
+      "vscode"
+    ]
   }
 ]
