@@ -1192,5 +1192,20 @@
       "cli",
       "tool"
     ]
+  },
+  {
+    "id": "19591e21-9df2-467c-b68f-739a68840211",
+    "date": "2020-02-18",
+    "title": "Frontend Interview Questions",
+    "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+    "description": "Excellent collection of front end interview questions",
+    "tags": [
+      "interview",
+      "front end",
+      "css",
+      "javascript",
+      "html",
+      "job"
+    ]
   }
 ]
