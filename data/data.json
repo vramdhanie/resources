@@ -1207,5 +1207,16 @@
       "html",
       "job"
     ]
+  },
+  {
+    "id": "d17b22c6-ae1a-40a5-a6c6-6d4e87caac47",
+    "date": "2020-03-02",
+    "title": "CSS GG",
+    "url": "https://css.gg/",
+    "description": "Minimalist icon library. Designed in CSS",
+    "tags": [
+      "css",
+      "icon"
+    ]
   }
 ]
