@@ -1260,5 +1260,19 @@
       "online",
       "developer tools"
     ]
+  },
+  {
+    "id": "441efc10-812d-4935-afa8-534de93a975b",
+    "date": "2020-03-24",
+    "title": "COVID-19 Italy Data",
+    "url": "https://github.com/pcm-dpc/COVID-19",
+    "description": "Raw data for the COVID-19 pandemic from Italy",
+    "tags": [
+      "data",
+      "raw",
+      "github",
+      "italy",
+      "covid-19"
+    ]
   }
 ]
