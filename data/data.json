@@ -1232,5 +1232,19 @@
       "courses",
       "data science"
     ]
+  },
+  {
+    "id": "ce7315e7-8871-4476-84b3-cd6dd28620b0",
+    "date": "2020-03-24",
+    "title": "Front End Interview Questions",
+    "url": "https://h5bp.org/Front-end-Developer-Interview-Questions/",
+    "description": "Excellent collection of some really in depth front end interview questions.",
+    "tags": [
+      "css",
+      "html",
+      "javascript",
+      "questions",
+      "interview"
+    ]
   }
 ]
