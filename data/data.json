@@ -1218,5 +1218,19 @@
       "css",
       "icon"
     ]
+  },
+  {
+    "id": "28ae4a4e-8602-401b-bfe4-05df9dabf40a",
+    "date": "2020-03-24",
+    "title": "fast.ai",
+    "url": "https://www.fast.ai/",
+    "description": "Neural nets, AI and Machine Learning courses and articles.",
+    "tags": [
+      "ai",
+      "neural nets",
+      "articles",
+      "courses",
+      "data science"
+    ]
   }
 ]
