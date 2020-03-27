@@ -1274,5 +1274,17 @@
       "italy",
       "covid-19"
     ]
+  },
+  {
+    "id": "862844e2-39f3-4d1f-ad00-e420de7ed080",
+    "date": "2020-03-27",
+    "title": "Remote Jobs",
+    "url": "https://github.com/lukasz-madon/awesome-remote-job#job-boards",
+    "description": "A repository of resources related to remote jobs. A list of many job boards that feature remote work and many other resources.",
+    "tags": [
+      "jobs",
+      "remote",
+      "repository"
+    ]
   }
 ]
