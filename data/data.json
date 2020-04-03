@@ -1286,5 +1286,17 @@
       "remote",
       "repository"
     ]
+  },
+  {
+    "id": "5aa598a2-1577-43ab-8653-b6078707ffea",
+    "date": "2020-04-03",
+    "title": "Web Developer Roadmaps",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Excellent roadmap for learning web development. Lists all topics for front end, backend and devops that a web developer should know.",
+    "tags": [
+      "web development",
+      "devops",
+      "education"
+    ]
   }
 ]
