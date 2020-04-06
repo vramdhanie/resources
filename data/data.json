@@ -1298,5 +1298,18 @@
       "devops",
       "education"
     ]
+  },
+  {
+    "id": "398182a2-65ac-45b2-9c17-7e561a47ebfb",
+    "date": "2020-04-06",
+    "title": "Maths for Machine Learning",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "description": "Free e-book entitled Mathematics for Machine Learning and it's companion website. Contains tutorials.",
+    "tags": [
+      "mathematics",
+      "machine learning",
+      "book",
+      "repo"
+    ]
   }
 ]
