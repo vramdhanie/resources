@@ -1311,5 +1311,18 @@
       "book",
       "repo"
     ]
+  },
+  {
+    "id": "deeaec4c-8a72-4ac0-bfdc-d8de5d7554a4",
+    "date": "2020-04-12",
+    "title": "Tailwind Cheatsheet",
+    "url": "https://nerdcave.com/tailwind-cheat-sheet",
+    "description": "Fairly comprehensive cheatsheet for the various Tailwind classes",
+    "tags": [
+      "tailwind",
+      "css",
+      "design",
+      "framework"
+    ]
   }
 ]
