@@ -1324,5 +1324,19 @@
       "design",
       "framework"
     ]
+  },
+  {
+    "id": "cd906ffa-32b0-4df8-b7e2-db46cdacaf3a",
+    "date": "2020-04-13",
+    "title": "Harvard Online",
+    "url": "https://online-learning.harvard.edu/",
+    "description": "Many computer science, data science and programming courses from Harvard University are available for free online",
+    "tags": [
+      "courses",
+      "university",
+      "harvard",
+      "cs",
+      "online"
+    ]
   }
 ]
