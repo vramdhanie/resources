@@ -1350,5 +1350,19 @@
       "hiring",
       "remote"
     ]
+  },
+  {
+    "id": "8dc17ded-9488-493c-bbdc-84391f8d1301",
+    "date": "2020-04-13",
+    "title": "NASA ARSET",
+    "url": "https://arset.gsfc.nasa.gov/",
+    "description": "Online training available to anyone on how to use NASA data.",
+    "tags": [
+      "nasa",
+      "data",
+      "online",
+      "training",
+      "course"
+    ]
   }
 ]
