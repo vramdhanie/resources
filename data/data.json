@@ -1338,5 +1338,17 @@
       "cs",
       "online"
     ]
+  },
+  {
+    "id": "b60c1e86-61d8-4c11-b540-68c8fd61a7cc",
+    "date": "2020-04-13",
+    "title": "Candor",
+    "url": "https://candor.co/hiring-freezes/",
+    "description": "Candor hiring freezes is an updated list of companies that are hiring or not during the pandemic. Also [List of persons looking for jobs here](https://candor.co/layoff-list/)",
+    "tags": [
+      "jobs",
+      "hiring",
+      "remote"
+    ]
   }
 ]
