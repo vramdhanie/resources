@@ -1364,5 +1364,19 @@
       "training",
       "course"
     ]
+  },
+  {
+    "id": "c2d65a3f-02d1-4d24-a6c2-4c9343ac9734",
+    "date": "2020-04-14",
+    "title": "Ivy League Courses",
+    "url": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
+    "description": "This article lists over 500 free online courses from major universities",
+    "tags": [
+      "online",
+      "courses",
+      "free",
+      "cs",
+      "learning"
+    ]
   }
 ]
