@@ -3,7 +3,7 @@ import styled from "styled-components";
 import Bookmark from "./bookmark";
 import FilterTag from "./filterTag";
 import { MdClose } from "react-icons/md";
-import { FaBackspace } from "react-icons/fa";
+import { FaBackspace, FaEllipsisV } from "react-icons/fa";
 import logo from "./images/logo.png";
 
 function App({ className }) {
@@ -11,6 +11,8 @@ function App({ className }) {
 	const [tags, setTags] = useState([]);
 	const [error, setError] = useState(null);
 	const [filters, setFilters] = useState([]);
+	const [search, setSearch] = useState("");
+	const [showTags, setShowTags] = useState(false);
 
 	const getTags = data => {
 		// setTags(
@@ -70,14 +72,24 @@ function App({ className }) {
 	const filtered = (filters.length
 		? bookmarks.filter(b => b.tags.some(t => filters.includes(t)))
 		: bookmarks
-	).map(b => <Bookmark {...b} key={b.id} />);
+	)
+		.filter(b => b.description.includes(search))
+		.map(b => <Bookmark {...b} key={b.id} />);
 
 	return (
-		<div className={className}>
-			<header>
-				<div className="site_name">
+		<div className="flex flex-col h-screen">
+			<header className="mb-1 bg-gray-700 p-2 text-white shadow-md flex items-center justify-between">
+				<div className="flex items-center">
 					<img src={logo} alt="Resources Logo" />
 					<h1>Bookmarks</h1>
+				</div>
+				<div className="">
+					<input
+						onChange={e => setSearch(e.target.value)}
+						type="text"
+						value={search}
+						className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+					/>
 				</div>
 				<div className="stats">
 					<div className="count">
@@ -107,18 +119,26 @@ function App({ className }) {
 				</div>
 			</header>
 			<section className="tags">
-				{tags.map(([name, count]) => (
-					<FilterTag
-						name={name}
-						count={count}
-						selected={filters.includes(name)}
-						key={name}
-						addFilter={addFilter}
-						removeFilter={removeFilter}
+				<div className="flex justify-end">
+					<FaEllipsisV
+						onClick={() => setShowTags(showTags => !showTags)}
+						className="text-right cursor-pointer hover:text-gray-300 text-gray-600 tansition-all duration-300"
 					/>
-				))}
+				</div>
+				{showTags
+					? tags.map(([name, count]) => (
+							<FilterTag
+								name={name}
+								count={count}
+								selected={filters.includes(name)}
+								key={name}
+								addFilter={addFilter}
+								removeFilter={removeFilter}
+							/>
+					  ))
+					: ""}
 			</section>
-			<main>
+			<main className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
 				{error ? <div>{error}</div> : ""}
 				{filtered}
 			</main>
@@ -128,31 +148,6 @@ function App({ className }) {
 }
 
 export default styled(App)`
-	display: flex;
-	flex-direction: column;
-	height: 100%;
-
-	header {
-		background: #616161;
-		padding: 16px;
-		color: #ffffff;
-		margin-bottom: 8px;
-		box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.2);
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-
-		& h1 {
-			font-size: 1.5rem;
-			font-weight: bold;
-		}
-
-		& .stats {
-			font-size: 0.9rem;
-			font-weight: 300;
-		}
-	}
-
 	main {
 		flex: 1;
 		display: grid;
