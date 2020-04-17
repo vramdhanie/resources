@@ -1378,5 +1378,18 @@
       "cs",
       "learning"
     ]
+  },
+  {
+    "id": "c1cf4e13-6625-4817-bcf7-9230373ed263",
+    "date": "2020-04-17",
+    "title": "Tailwind Setup",
+    "url": "https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/",
+    "description": "A comprehensive guide to setting up tailwind on a react application",
+    "tags": [
+      "tailwind",
+      "tutorial",
+      "article",
+      "react"
+    ]
   }
 ]
