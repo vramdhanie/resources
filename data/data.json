@@ -1391,5 +1391,19 @@
       "article",
       "react"
     ]
+  },
+  {
+    "id": "d2934985-9a19-41d4-bfe5-6cdb1fce8ed3",
+    "date": "2020-05-07",
+    "title": "Doctocat",
+    "url": "https://primer.style/doctocat/",
+    "description": "A Gatsby theme for creating documentation sites. This is a GitHub open source project.",
+    "tags": [
+      "gatsby",
+      "github",
+      "documentation",
+      "theme",
+      "template"
+    ]
   }
 ]
