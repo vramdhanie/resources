@@ -1405,5 +1405,19 @@
       "theme",
       "template"
     ]
+  },
+	{
+    "id": "1f77e007-089d-46bd-8dff-15d58648c81d",
+    "date": "2020-05-12",
+    "title": "50 Design Tools",
+    "url": "https://dev.to/davidepacilio/50-free-tools-and-resources-to-create-awesome-user-interfaces-1c1b?signin=true",
+    "description": "This article lists 50 tools that can help with the design of a website. Colours, photographs, shapes, icons and more.",
+    "tags": [
+      "tools",
+      "colour",
+      "design",
+      "online",
+      "web design"
+    ]
   }
 ]
