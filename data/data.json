@@ -1419,5 +1419,19 @@
       "online",
       "web design"
     ]
+  },
+  {
+    "id": "25c1427d-5adb-4b9c-8a09-4c8de5224750",
+    "date": "2020-05-25",
+    "title": "Responsively",
+    "url": "https://manojvivek.github.io/responsively-app/",
+    "description": "Really cool tool that displays your web app in several different views all at once. Screen mirroring, screen shots, hot relaoding etc.",
+    "tags": [
+      "tools",
+      "design",
+      "responsive",
+      "front-end",
+      "web design"
+    ]
   }
 ]
