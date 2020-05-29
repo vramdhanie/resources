@@ -942,5 +942,13 @@
 		"url": "https://studio.code.org/courses",
 		"description": "Code.org® is a nonprofit dedicated to expanding access to computer science in schools. Free access to courses and tutorials.",
 		"tags": ["education", "programming", "online", "kids", "learn"]
+	},
+	{
+		"id": "461559b2-a1fb-11ea-b0e9-38f9d30d8a91",
+		"date": "2020-05-29",
+		"title": "Practical Python Programming",
+		"url": "https://dabeaz-course.github.io/practical-python/",
+		"description": "A course on the foundational aspects of Python programming with an emphasis on script writing, data manipulation, and program organization. ",
+		"tags": ["python", "course", "online", "learn", "programming"]
 	}
 ]
