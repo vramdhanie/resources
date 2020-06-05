@@ -958,5 +958,13 @@
 		"url": "https://egghead.io/courses/scalable-offline-ready-graphql-applications-with-aws-appsync-react",
 		"description": "A free Egghead course on React, AWS AppSync, GraphQL",
 		"tags": ["AWS", "course", "react", "graphql", "egghead"]
+	},
+	{
+		"id": "bb86106c-a1fe-11ea-8671-38f9d30d8a91",
+		"date": "2020-06-5",
+		"title": "Dive into Deep Learning",
+		"url": "https://d2l.ai/",
+		"description": "An interactive deep learning book with code, math, and discussions. Github repo available. This is an open sourced text book.",
+		"tags": ["book", "course", "deep learning", "machine learning", "python"]
 	}
 ]
