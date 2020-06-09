@@ -966,5 +966,13 @@
 		"url": "https://d2l.ai/",
 		"description": "An interactive deep learning book with code, math, and discussions. Github repo available. This is an open sourced text book.",
 		"tags": ["book", "course", "deep learning", "machine learning", "python"]
+	},
+	{
+		"id": "82db33ba-aa54-11ea-9a15-b7ab5a4e9525",
+		"date": "2020-06-9",
+		"title": "Flight Radar 24",
+		"url": "https://www.flightradar24.com/26.63,-80.67/8",
+		"description": "Live air traffic tracker",
+		"tags": ["flight", "cool", "interactive"]
 	}
 ]
