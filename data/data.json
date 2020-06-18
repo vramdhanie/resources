@@ -982,5 +982,13 @@
 		"url": "https://exploringjs.com/deep-js/toc.html",
 		"description": "Free access to a JavaScript book.",
 		"tags": ["book", "free", "javascript"]
+	},
+	{
+		"id": "3cd492a8-b111-11ea-9277-5fcf5c4bddae",
+		"date": "2020-06-17",
+		"title": "Command Line Power User",
+		"url": "https://commandlinepoweruser.com/",
+		"description": "A video series for web developers on learning a modern command line workflow with ZSH",
+		"tags": ["command line", "terminal", "zsh", "course"]
 	}
 ]
