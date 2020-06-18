@@ -974,5 +974,13 @@
 		"url": "https://www.flightradar24.com/26.63,-80.67/8",
 		"description": "Live air traffic tracker",
 		"tags": ["flight", "cool", "interactive"]
+	},
+	{
+		"id": "b78b85c0-b110-11ea-8888-57e84ea6d3bd",
+		"date": "2020-06-17",
+		"title": "Deep JavaScript",
+		"url": "https://exploringjs.com/deep-js/toc.html",
+		"description": "Free access to a JavaScript book.",
+		"tags": ["book", "free", "javascript"]
 	}
 ]
