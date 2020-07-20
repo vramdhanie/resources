@@ -990,5 +990,13 @@
 		"url": "https://commandlinepoweruser.com/",
 		"description": "A video series for web developers on learning a modern command line workflow with ZSH",
 		"tags": ["command line", "terminal", "zsh", "course"]
+	},
+	{
+		"id": "ba9c2b04-caa4-11ea-aae0-ab75e3d0ed9a",
+		"date": "2020-07-20",
+		"title": "Useful Data Science comparison tables",
+		"url": "https://www.aisoma.de/useful-comparison-tables-for-ai-data-science-iot/",
+		"description": "A few tables comparing algorithms and ML methods",
+		"tags": ["tables",  "data science", "ML"]
 	}
 ]
