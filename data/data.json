@@ -998,5 +998,13 @@
 		"url": "https://www.aisoma.de/useful-comparison-tables-for-ai-data-science-iot/",
 		"description": "A few tables comparing algorithms and ML methods",
 		"tags": ["tables",  "data science", "ML"]
+	},
+	{
+		"id": "3386290a-e163-11ea-9585-38f9d30d8a91",
+		"date": "2020-08-18",
+		"title": "Stanford: Algorithms: Design and Analysis, Part 1",
+		"url": "https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1",
+		"description": "In this course you will learn several fundamental principles of algorithm design. You'll learn the divide-and-conquer design paradigm, with applications to fast sorting, searching, and multiplication. You'll learn several blazingly fast primitives for computing on graphs, such as how to compute connectivity information and shortest paths. Finally, we'll study how allowing the computer to "flip coins" can lead to elegant and practical algorithms and data structures. Learn the answers to questions such as: How do data structures like heaps, hash tables, bloom filters, and balanced search trees actually work, anyway? How come QuickSort runs so fast? What can graph algorithms tell us about the structure of the Web and social networks? Did my 3rd-grade teacher explain only a suboptimal algorithm for multiplying two numbers?",
+		"tags": ["stanford",  "online", "course", "algorithms"]
 	}
 ]
