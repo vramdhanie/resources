@@ -1030,5 +1030,13 @@
 		"url": "https://leafletjs.com/",
 		"description": "an open-source JavaScript library for mobile-friendly interactive maps",
 		"tags": ["library", "open source", "javascript", "map"]
+	},
+	{
+		"id": "f25ba9a0-ec61-11ea-82c9-38f9d30d8a91",
+		"date": "2020-09-1",
+		"title": "React Leaflet",
+		"url": "https://react-leaflet.js.org/",
+		"description": "A React wrapper for Leaflet JS.",
+		"tags": ["React", "library", "open source", "javascript", "map"]
 	}
 ]
