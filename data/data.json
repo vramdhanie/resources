@@ -1014,5 +1014,15 @@
 		"url": "https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2",
 		"description": "In this course you will learn several fundamental principles of advanced algorithm design. You'll learn the greedy algorithm design paradigm, with applications to computing good network backbones (i.e., spanning trees) and good codes for data compression. You'll learn the tricky yet widely applicable dynamic programming algorithm design paradigm, with applications to routing in the Internet and sequencing genome fragments. You'll learn what NP-completeness and the famous 'P vs. NP' problem mean for the algorithm designer.  Finally, we'll study several strategies for dealing with hard (i.e., NP-complete problems), including the design and analysis of heuristics.  Learn how shortest-path algorithms from the 1950's (i.e., pre-ARPANET!) govern the way that your Internet traffic gets routed today; why efficient algorithms are fundamental to modern genomics; and how to make a million bucks in prize money by 'just' solving a math problem!",
 		"tags": ["stanford",  "online", "course", "algorithms"]
+	},
+	{
+		"id": "d9c4985e-ebf1-11ea-a393-38f9d30d8a91",
+		"date": "2020-08-31",
+		"title": "ArcGIS Geospatial Data on Trinidad",
+		"url": "https://www.arcgis.com/apps/webappviewer/index.html?id=3cefab03e0c64532b4fa036618f914c7",
+		"description": "Land and map information about Trinidad and Tobago. Very detailed plot allocations and latest survey data.",
+		"tags": ["trinidad",  "geospatial", "land", "map"]
 	}
+	
+	
 ]
