@@ -1038,5 +1038,13 @@
 		"url": "https://react-leaflet.js.org/",
 		"description": "A React wrapper for Leaflet JS.",
 		"tags": ["React", "library", "open source", "javascript", "map"]
+	},
+	{
+		"id": "65f6a546-edfb-11ea-a11d-38f9d30d8a91",
+		"date": "2020-09-3",
+		"title": "ECMAScript® 2015 Language Specification",
+		"url": "http://www.ecma-international.org/ecma-262/6.0/index.html",
+		"description": "This Ecma Standard defines the ECMAScript 2015 Language. It is the sixth edition of the ECMAScript Language Specification.",
+		"tags": ["standard", "specification", "ecma", "javascript", "es6"]
 	}
 ]
