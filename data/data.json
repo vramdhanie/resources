@@ -1054,5 +1054,13 @@
 		"url": "https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/",
 		"description": "ES6 defines a new global constructor, Proxy. It takes two arguments: a target object and a handler object.",
 		"tags": ["reflect", "proxies", "ecma", "javascript", "es6"]
+	},
+	{
+		"id": "bc297d1a-f76c-11ea-94fa-38f9d30d8a91",
+		"date": "2020-09-15",
+		"title": "BoardGame.io",
+		"url": "https://boardgame.io/",
+		"description": "Open Source Game Engine for Turn-Based Games. _Write simple functions that describe how the game state changes when a particular move is made. This is automatically converted into a playable game complete with online multiplayer features, all without requiring you to write a single line of networking or storage code._",
+		"tags": ["game", "engine", "open source", "javascript", "library"]
 	}
 ]
