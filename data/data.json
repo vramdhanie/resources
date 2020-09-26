@@ -1070,5 +1070,13 @@
 		"url": "https://www.snippetsofhooks.dev/",
 		"description": "From the TinyHouse folks. Great cheatsheet on using hooks. Well presented.",
 		"tags": ["react", "hooks", "cheatsheet", "javascript"]
+	},
+	{
+		"id": "9776723e-0009-11eb-b598-a3186d6ad8d0",
+		"date": "2020-09-26",
+		"title": "Custom Image Upload",
+		"url": "https://codesandbox.io/s/4wrrx8qok0?file=/src/components/CustomImageInput.js",
+		"description": "A really great example of a image upload component in React",
+		"tags": ["react", "example", "image upload", "javascript"]
 	}
 ]
