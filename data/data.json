@@ -1094,5 +1094,13 @@
 		"url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
 		"description": "This is a book about doing data science with Python, it is meant to help Python users learn to use Python's data science stack–libraries such as IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and related tools–to effectively store, manipulate, and gain insight from data.",
 		"tags": ["python", "book", "ml", "pandas", "scikit"]
+	},
+	{
+		"id": "397e0d42-330b-11eb-a4d2-38f9d30d8a91",
+		"date": "2020-11-30",
+		"title": "Reasonably priced books",
+		"url": "https://www.alibris.com/",
+		"description": "A book store with second hand text books at reasonable prices.",
+		"tags": ["shop", "book"]
 	}
 ]
