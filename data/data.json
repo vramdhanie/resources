@@ -1102,5 +1102,13 @@
 		"url": "https://www.alibris.com/",
 		"description": "A book store with second hand text books at reasonable prices.",
 		"tags": ["shop", "book"]
+	},
+	{
+		"id": "98128134-330c-11eb-96f8-38f9d30d8a91",
+		"date": "2020-11-30",
+		"title": "React Query",
+		"url": "https://react-query.tanstack.com/",
+		"description": "Performant and powerful data synchronization for React. Fetch, cache and update data in your React and React Native applications all without touching any 'global state'.",
+		"tags": ["react", "query", "cache", "async", "fetch"]
 	}
 ]
