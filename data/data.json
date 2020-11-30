@@ -1110,5 +1110,13 @@
 		"url": "https://react-query.tanstack.com/",
 		"description": "Performant and powerful data synchronization for React. Fetch, cache and update data in your React and React Native applications all without touching any 'global state'.",
 		"tags": ["react", "query", "cache", "async", "fetch"]
+	},
+	{
+		"id": "fcbe075c-330c-11eb-a4c4-38f9d30d8a91",
+		"date": "2020-11-30",
+		"title": "Algolia",
+		"url": "https://www.algolia.com/doc/",
+		"description": "Search as a service. May be used with Firestore to create full text search.",
+		"tags": ["query", "algolia", "firestore", "search"]
 	}
 ]
