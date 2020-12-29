@@ -1118,5 +1118,13 @@
 		"url": "https://www.algolia.com/doc/",
 		"description": "Search as a service. May be used with Firestore to create full text search.",
 		"tags": ["query", "algolia", "firestore", "search"]
+	},
+	{
+		"id": "08508f7e-4a17-11eb-a53b-38f9d30d8a91",
+		"date": "2020-12-29",
+		"title": "The Avalon Project",
+		"url": "https://avalon.law.yale.edu/default.asp",
+		"description": "A project of Yale Law School. A collection of documents from the ancient times.",
+		"tags": ["history", "law", "documents", "library"]
 	}
 ]
