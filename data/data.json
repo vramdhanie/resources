@@ -1126,7 +1126,7 @@
 		"url": "https://avalon.law.yale.edu/default.asp",
 		"description": "A project of Yale Law School. A collection of documents from the ancient times.",
 		"tags": ["history", "law", "documents", "library"]
-	}
+	},
 	{
 		"id": "4029abe0-667a-11eb-b160-38f9d30d8a91",
 		"date": "2021-2-3",
@@ -1134,5 +1134,13 @@
 		"url": "https://www.keystonejs.com/",
 		"description": "Headless CMS & GraphQL API for Node",
 		"tags": ["cms", "graphql", "headless", "node"]
+	},
+        {
+		"id": "6784103a-6d38-11eb-874d-38f9d30d8a91",
+		"date": "2021-2-12",
+		"title": "Stacks",
+		"url": "https://www.keystonejs.com/",
+		"description": "*Stacks* provides everything you need to quickly design, build, and ship coherent experiences across all of Stack Overflow—from the brand and product itself, down to how we send emails and write copy.",
+		"tags": ["design", "stackoverflow", "email", "css", "javascript"]
 	}
 ]
