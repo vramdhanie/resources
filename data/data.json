@@ -1139,8 +1139,16 @@
 		"id": "6784103a-6d38-11eb-874d-38f9d30d8a91",
 		"date": "2021-2-12",
 		"title": "Stacks",
-		"url": "https://www.keystonejs.com/",
+		"url": "https://stackoverflow.design/",
 		"description": "*Stacks* provides everything you need to quickly design, build, and ship coherent experiences across all of Stack Overflow—from the brand and product itself, down to how we send emails and write copy.",
 		"tags": ["design", "stackoverflow", "email", "css", "javascript"]
+	},
+        {
+		"id": "6d895862-6d3a-11eb-9612-38f9d30d8a91",
+		"date": "2021-2-12",
+		"title": "Tiny PNG",
+		"url": "https://tinypng.com/",
+		"description": "TinyPNG uses smart lossy compression techniques to **reduce the file size** of your PNG files. By selectively decreasing the number of colors in the image, fewer bytes are required to store the data. The effect is nearly invisible but it makes a very large difference in file size!",
+		"tags": ["image", "optimize", "png", "jpeg", "compress"]
 	}
 ]
