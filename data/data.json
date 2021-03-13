@@ -1150,5 +1150,13 @@
 		"url": "https://tinypng.com/",
 		"description": "TinyPNG uses smart lossy compression techniques to **reduce the file size** of your PNG files. By selectively decreasing the number of colors in the image, fewer bytes are required to store the data. The effect is nearly invisible but it makes a very large difference in file size!",
 		"tags": ["image", "optimize", "png", "jpeg", "compress"]
+	},
+        {
+		"id": "6850cd12-839c-11eb-92cd-38f9d30d8a91",
+		"date": "2021-3-12",
+		"title": "Modern Statistics for Modern Biology",
+		"url": "https://www.huber.embl.de/msmb/index.html",
+		"description": "The aim of this book is to enable scientists working in biological research to quickly learn many of the important ideas and methods that they need to make the best of their experiments and of other available data.",
+		"tags": ["book", "statistics", "science", "biology", "data"]
 	}
 ]
