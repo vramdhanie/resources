@@ -1158,5 +1158,13 @@
 		"url": "https://www.huber.embl.de/msmb/index.html",
 		"description": "The aim of this book is to enable scientists working in biological research to quickly learn many of the important ideas and methods that they need to make the best of their experiments and of other available data.",
 		"tags": ["book", "statistics", "science", "biology", "data"]
+	},
+        {
+		"id": "63ea97a8-97a1-11eb-84a4-38f9d30d8a91",
+		"date": "2021-4-7",
+		"title": "Deep Learning - An MIT Press book",
+		"url": "https://www.deeplearningbook.org/",
+		"description": "The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular.",
+		"tags": ["book", "deep learning", "mit", "machine learning", "data science"]
 	}
 ]
