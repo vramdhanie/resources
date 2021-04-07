@@ -1166,5 +1166,13 @@
 		"url": "https://www.deeplearningbook.org/",
 		"description": "The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular.",
 		"tags": ["book", "deep learning", "mit", "machine learning", "data science"]
+	},
+        {
+		"id": "84d8bd54-97a2-11eb-a655-38f9d30d8a91",
+		"date": "2021-4-7",
+		"title": "WebAssembly/Rust Tutorial",
+		"url": "https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio",
+		"description": "In this Wasm/Rust tutorial, we will create a simple pitch-detector app, like a guitar tuner. It will use the built-in audio capabilities of the browser, and run at 60 frames per second (FPS)—even on mobile devices.",
+		"tags": ["web assembly", "rust", "tutorial", "audio", "data science"]
 	}
 ]
