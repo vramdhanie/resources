@@ -1174,5 +1174,21 @@
 		"url": "https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio",
 		"description": "In this Wasm/Rust tutorial, we will create a simple pitch-detector app, like a guitar tuner. It will use the built-in audio capabilities of the browser, and run at 60 frames per second (FPS)—even on mobile devices.",
 		"tags": ["web assembly", "rust", "tutorial", "audio", "data science"]
+	},
+        {
+		"id": "5e60ae1e-d296-11eb-94f6-38f9d30d8a91",
+		"date": "2021-6-21",
+		"title": "Peerflix",
+		"url": "https://github.com/mafintosh/peerflix",
+		"description": "A streaming torrent client for npm",
+		"tags": ["streaming", "torrent", "magnet", "npm", "command line"]
+	},
+        {
+		"id": "a56790b6-d296-11eb-b8f9-38f9d30d8a91",
+		"date": "2021-6-21",
+		"title": "libgen",
+		"url": "https://libgen.is/",
+		"description": "Books, scientific papers",
+		"tags": ["books", "papers", "comics", "free", "online"]
 	}
 ]
