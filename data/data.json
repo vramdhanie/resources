@@ -1190,5 +1190,13 @@
 		"url": "https://libgen.is/",
 		"description": "Books, scientific papers",
 		"tags": ["books", "papers", "comics", "free", "online"]
+	},
+	{
+		"id": "50fb063c-ea2b-11eb-b5e0-38f9d30d8a91",
+		"date": "https://www.remotion.dev/",
+		"title": "remotion",
+		"url": "https://libgen.is/",
+		"description": "Write videos in React",
+		"tags": ["react", "videos", "tools"]
 	}
 ]
